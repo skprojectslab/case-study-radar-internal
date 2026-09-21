@@ -1,0 +1,62 @@
+global:
+  market: Global
+  domain: soprasteria.com
+  listing_urls:
+    - https://www.soprasteria.com/newsroom/client-stories
+  language: en
+  adapter: standard
+
+germany:
+  market: Germany
+  domain: soprasteria.de
+  listing_urls:
+    - https://www.soprasteria.de/newsroom/success-stories
+  language: de
+  adapter: standard
+
+france:
+  market: France
+  domain: soprasteria.fr
+  listing_urls:
+    - https://www.soprasteria.fr/services/conseil/nos-client-stories
+  language: fr
+  adapter: standard
+
+italy:
+  market: Italy
+  domain: soprasteria.it
+  listing_urls:
+    - https://www.soprasteria.it/chi-siamo/storie-di-successo
+  language: it
+  adapter: standard
+
+netherlands:
+  market: Netherlands
+  domain: soprasteria.nl
+  listing_urls:
+    - https://www.soprasteria.nl/newsroom/success-stories
+  language: nl
+  adapter: standard
+
+denmark:
+  market: Denmark
+  domain: soprasteria.dk
+  listing_urls:
+    - https://www.soprasteria.dk/
+  language: da
+  adapter: discovery
+
+sweden:
+  market: Sweden
+  domain: soprasteria.se
+  listing_urls:
+    - https://www.soprasteria.se/kundreferenser/
+  language: sv
+  adapter: standard
+
+# Add these after their source audit is completed:
+# uk:
+# belgium:
+# luxembourg:
+# norway:
+# india:
