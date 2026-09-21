@@ -1,5 +1,1950 @@
 {
-  "run_at": null,
-  "summary": {},
-  "changes": []
+  "run_at": "2026-09-21T07:12:07.412790+00:00",
+  "summary": {
+    "sources": 7,
+    "discovered": 101,
+    "new": 102,
+    "updated": 0,
+    "errors": 0
+  },
+  "changes": [
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Global",
+        "source_domain": "soprasteria.com",
+        "source_url": "https://www.soprasteria.com/newsroom/client-stories",
+        "title": "Projects that matter, opportunities that empower",
+        "description": "Sopra Steria, a major Tech player in Europe is recognised for its consulting, digital services and software development. It helps its clients drive their digital transformation and obtain tangible and sustainable benefits.",
+        "url": "https://www.soprasteria.com/careers",
+        "canonical_url": "https://careers.soprasteria.com/",
+        "language": "en",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "ea61b456d976adb2760511954bc71d8bda8c6de497ef643a18460b0445b5a0da",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Global",
+        "source_domain": "soprasteria.com",
+        "source_url": "https://www.soprasteria.com/newsroom/client-stories",
+        "title": "Newsroom",
+        "description": "",
+        "url": "https://www.soprasteria.com/newsroom",
+        "canonical_url": "https://www.soprasteria.com/newsroom",
+        "language": "en",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "e6043c641af029d11ad2abe726de13566c2c5fe4858019f9bd14933b320937f6",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Global",
+        "source_domain": "soprasteria.com",
+        "source_url": "https://www.soprasteria.com/newsroom/client-stories",
+        "title": "Client Stories",
+        "description": "Click here to see our list of client stories to see how we're working with clients.",
+        "url": "https://www.soprasteria.com/newsroom/client-stories",
+        "canonical_url": "https://www.soprasteria.com/newsroom/client-stories",
+        "language": "en",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "d0034a9f2480342d18c5b1e5649bdae317dc05072dc20a1a3195915a545c91d3",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Global",
+        "source_domain": "soprasteria.com",
+        "source_url": "https://www.soprasteria.com/newsroom/client-stories",
+        "title": "Sopra Steria - The world is how we shape it",
+        "description": "Sopra Steria, a European Tech leader recognised for its consulting, digital services and software development, helps its clients drive their digital transformation to obtain tangible and sustainable benefits.",
+        "url": "https://www.soprasteria.com/",
+        "canonical_url": "https://www.soprasteria.com/",
+        "language": "en",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "e441752ac789467c47fed4574b230111d646753651086b03168e2c09db537383",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Global",
+        "source_domain": "soprasteria.com",
+        "source_url": "https://www.soprasteria.com/newsroom/client-stories",
+        "title": "Contact us",
+        "description": "The fields marked by an asterisk (*) are required",
+        "url": "https://www.soprasteria.com/footer/contact-us",
+        "canonical_url": "https://www.soprasteria.com/footer/contact-us",
+        "language": "en",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "99f0bfbc231ffebc3fb8ec89b7afada2b63101bc3b2e126afe8d2e906b5d47d0",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Global",
+        "source_domain": "soprasteria.com",
+        "source_url": "https://www.soprasteria.com/newsroom/client-stories",
+        "title": "Terms of Use",
+        "description": "Personal Data means any information relating to, either directly or indirectly, an identified or identifiable individual.",
+        "url": "https://www.soprasteria.com/footer/terms-of-use",
+        "canonical_url": "https://www.soprasteria.com/footer/terms-of-use",
+        "language": "en",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "11167f68d373a1e53ffd32358859609405119b156994ab3d3bc3b01dede0c7c1",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Global",
+        "source_domain": "soprasteria.com",
+        "source_url": "https://www.soprasteria.com/newsroom/client-stories",
+        "title": "Personal Data Protection Notice",
+        "description": "The Personal Data Protection Charter (the “Charter”) is intended to inform You about the nature of the data collected when You consult and use Our Site and the conditions for processing this data.",
+        "url": "https://www.soprasteria.com/footer/personal-data-protection-charter",
+        "canonical_url": "https://www.soprasteria.com/footer/personal-data-protection-charter",
+        "language": "en",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "f5742888001c549c8a11fa603fc25a1705733ca5e8a7a9cd5fddde098c9c324b",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Global",
+        "source_domain": "soprasteria.com",
+        "source_url": "https://www.soprasteria.com/newsroom/client-stories",
+        "title": "Warning Alert",
+        "description": "Sopra Steria Group has been informed of fraud and scam attempts in Europe that employ various methods to impersonate the company.",
+        "url": "https://www.soprasteria.com/footer/warning-alert-scam-identify-theft",
+        "canonical_url": "https://www.soprasteria.com/footer/warning-alert-scam-identify-theft",
+        "language": "en",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "4301c768a5f22d5a75161ddcc9f0e0b51b1b495b8d8d52fa7a5f44256898d024",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Global",
+        "source_domain": "soprasteria.com",
+        "source_url": "https://www.soprasteria.com/newsroom/client-stories",
+        "title": "Sitemap",
+        "description": "website tree structure",
+        "url": "https://www.soprasteria.com/footer/site-map",
+        "canonical_url": "https://www.soprasteria.com/footer/site-map",
+        "language": "en",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "883515943e8a6fd2392cf9285da8876a4db57dda226451d399bc987b5f8e2937",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Global",
+        "source_domain": "soprasteria.com",
+        "source_url": "https://www.soprasteria.com/newsroom/client-stories",
+        "title": "Accessibility Statement",
+        "description": "This page aims to present the accessibility policy of the Sopra Steria, and to define the general accessibility level observed on the Global website, in accordance with the applicable protocols and regulations.",
+        "url": "https://www.soprasteria.com/footer/accessibility",
+        "canonical_url": "https://www.soprasteria.com/footer/accessibility",
+        "language": "en",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "574aa6bf1fa85d1d4238e534bbc62e738c76e06b5d41fffd30c5c3f0d2ccdd64",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Global",
+        "source_domain": "soprasteria.com",
+        "source_url": "https://www.soprasteria.com/newsroom/client-stories",
+        "title": "Cookies Policy",
+        "description": "We use cookies on our Website. A cookie is a small piece of data that a website stores on the visitor’s computer or mobile device.",
+        "url": "https://www.soprasteria.com/footer/cookies-policy",
+        "canonical_url": "https://www.soprasteria.com/footer/cookies-policy",
+        "language": "en",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "5d857099fe758d5d90b72729d9e2415d6fcb09e790a9535fa1b5ad147f7c42f6",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Germany",
+        "source_domain": "soprasteria.de",
+        "source_url": "https://www.soprasteria.de/newsroom/success-stories",
+        "title": "Success Stories",
+        "description": "Lesen Sie mehr über die spannenden Projekte, die wir zusammen mit unseren Kunden erfolgreich umgesetzt haben.",
+        "url": "https://www.soprasteria.de/newsroom/success-stories",
+        "canonical_url": "https://www.soprasteria.de/newsroom/success-stories",
+        "language": "de",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "5357e6b2d8bf4feb182e690239197e887f07977275a9abd4fb0b44ff34ebc15a",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Germany",
+        "source_domain": "soprasteria.de",
+        "source_url": "https://www.soprasteria.de/newsroom/success-stories",
+        "title": "Sopra Steria, ein führender europäischer Management- und Technologieberater",
+        "description": "Sopra Steria, ein führender Management- und Technologieberater",
+        "url": "https://www.soprasteria.de/",
+        "canonical_url": "https://www.soprasteria.de/",
+        "language": "de",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "cc06728dc1b5ca9cfe2fd3c024a2d28fc428e91b4c7f67375b55049016809ee5",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Germany",
+        "source_domain": "soprasteria.de",
+        "source_url": "https://www.soprasteria.de/newsroom/success-stories",
+        "title": "Newsroom",
+        "description": "Newsroom – Einblicke & Presse | Sopra Steria – aktuelle Unternehmensnews, Fachartikel und Pressemitteilungen mit Einblicken in digitale Trends und Innovationen",
+        "url": "https://www.soprasteria.de/newsroom",
+        "canonical_url": "https://www.soprasteria.de/newsroom",
+        "language": "de",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "3a2d6bdce2f6bcf7cdad32699498b2c04eb2745f2e6c20f90ad20a306955ac30",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Germany",
+        "source_domain": "soprasteria.de",
+        "source_url": "https://www.soprasteria.de/newsroom/success-stories",
+        "title": "Publikationen",
+        "description": "Publikationen – Studien & Reports | Sopra Steria – aktuelle Marktstudien, Fachanalysen und Reports mit Insights zu Digitalisierung, Innovation und Zukunftstrends.",
+        "url": "https://www.soprasteria.de/newsroom/publikationen",
+        "canonical_url": "https://www.soprasteria.de/newsroom/publikationen",
+        "language": "de",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "7337e700d4ee0702c74da68fc6cf27c7d7a59728fabcd80892473a39a9bce88d",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Germany",
+        "source_domain": "soprasteria.de",
+        "source_url": "https://www.soprasteria.de/newsroom/success-stories",
+        "title": "Interviews \"Nachgefragt!\"",
+        "description": "Nachgefragt: Experten-Interviews | Sopra Steria – aktuelle Perspektiven zu Digitalisierung, Nachhaltigkeit und Innovation direkt von führenden Branchenexpert*innen",
+        "url": "https://www.soprasteria.de/newsroom/interviews-nachgefragt",
+        "canonical_url": "https://www.soprasteria.de/newsroom/interviews-nachgefragt",
+        "language": "de",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "5feee04b0a268c5004852d09785a29c30c9b695906c81d1e91e57a309658c31a",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Germany",
+        "source_domain": "soprasteria.de",
+        "source_url": "https://www.soprasteria.de/newsroom/success-stories",
+        "title": "Pressemitteilungen",
+        "description": "Pressemitteilungen & News | Sopra Steria – alle aktuellen Unternehmensmeldungen, Projekte und Innovationen mit Einblicken in digitale Trends und Branchenthemen",
+        "url": "https://www.soprasteria.de/newsroom/pressemitteilungen",
+        "canonical_url": "https://www.soprasteria.de/newsroom/pressemitteilungen",
+        "language": "de",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "c2fc59e9a3db534d51be56061aeb3f7091839ed3bd9532057499b063a9654d4b",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Germany",
+        "source_domain": "soprasteria.de",
+        "source_url": "https://www.soprasteria.de/newsroom/success-stories",
+        "title": "Sitemap",
+        "description": "Hier finden Sie unsere Sitemap.",
+        "url": "https://www.soprasteria.de/footer/sitemap",
+        "canonical_url": "https://www.soprasteria.de/footer/sitemap",
+        "language": "de",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "17a436d543a3a3e13426d4c871900528f0eaa542de50bc5dafeb338250eb27c0",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Germany",
+        "source_domain": "soprasteria.de",
+        "source_url": "https://www.soprasteria.de/newsroom/success-stories",
+        "title": "Impressum",
+        "description": "Impressum von Sopra Steria",
+        "url": "https://www.soprasteria.de/footer/impressum",
+        "canonical_url": "https://www.soprasteria.de/footer/impressum",
+        "language": "de",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "873b60d4cfbf4c2c7f70e5d111bed1787cd7c4b756e3f978320e72005095ef37",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Germany",
+        "source_domain": "soprasteria.de",
+        "source_url": "https://www.soprasteria.de/newsroom/success-stories",
+        "title": "Allgemeine Einkaufsbedingungen",
+        "description": "Hier finden Sie unsere allgemeinen Einkaufsbedingungen.",
+        "url": "https://www.soprasteria.de/footer/allgemeine-einkaufsbedingungen",
+        "canonical_url": "https://www.soprasteria.de/footer/allgemeine-einkaufsbedingungen",
+        "language": "de",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "02a42acbdf2944c41ab256830f8978f4b431805c4e315afe97f4fa723cee9317",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Germany",
+        "source_domain": "soprasteria.de",
+        "source_url": "https://www.soprasteria.de/newsroom/success-stories",
+        "title": "Datenschutz",
+        "description": "Datenschutzerklärung von Sopra Steria",
+        "url": "https://www.soprasteria.de/footer/datenschutz",
+        "canonical_url": "https://www.soprasteria.de/footer/datenschutz",
+        "language": "de",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "50a4a5cdbbb0edd769aef2867ae2a7d304da537d4f701b7b3deb013c015b4514",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Germany",
+        "source_domain": "soprasteria.de",
+        "source_url": "https://www.soprasteria.de/newsroom/success-stories",
+        "title": "Kontakt",
+        "description": "Kontaktieren Sie uns!",
+        "url": "https://www.soprasteria.de/footer/kontakt",
+        "canonical_url": "https://www.soprasteria.de/footer/kontakt",
+        "language": "de",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "84bcfe18ca010a882df1c76439024fa8a13eacc06049b4d6688fa5fe2e5d43da",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "France",
+        "source_domain": "soprasteria.fr",
+        "source_url": "https://www.soprasteria.fr/services/conseil/nos-client-stories",
+        "title": "Espace médias",
+        "description": "Entre maintien opérationnel et Clean Core, découvrez les clés de réflexion pour faire de votre TMA SAP un choix stratégique.",
+        "url": "https://www.soprasteria.fr/espace-media",
+        "canonical_url": "https://www.soprasteria.fr/espace-media",
+        "language": "fr",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "7c275fdcf296481a655c686192ee6d0e21ef1736314980ca535eb839e2c34dce",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "France",
+        "source_domain": "soprasteria.fr",
+        "source_url": "https://www.soprasteria.fr/services/conseil/nos-client-stories",
+        "title": "Cas clients",
+        "description": "Retrouvez des exemples de missions accomplies chez nos clients .",
+        "url": "https://www.soprasteria.fr/espace-media/cas-client",
+        "canonical_url": "https://www.soprasteria.fr/espace-media/cas-client",
+        "language": "fr",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "e568e701c62d816e27c768ead5b22196676a0dc029e301194aa43ea155a82f2a",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "France",
+        "source_domain": "soprasteria.fr",
+        "source_url": "https://www.soprasteria.fr/services/conseil/nos-client-stories",
+        "title": "Nos cas client",
+        "description": "Client stories | Sopra Steria Next",
+        "url": "https://www.soprasteria.fr/services/conseil/nos-client-stories",
+        "canonical_url": "https://www.soprasteria.fr/services/conseil/nos-client-stories",
+        "language": "fr",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "9e9c4248a95b157c9dec7fe5f4c531b1508528f7dafb44caafb266181e10f2f1",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "France",
+        "source_domain": "soprasteria.fr",
+        "source_url": "https://www.soprasteria.fr/services/conseil/nos-client-stories",
+        "title": "Actualités",
+        "description": "Découvrez les dernières actualités de Sopra Steria Next : événements, publications, études etc.",
+        "url": "https://www.soprasteria.fr/services/conseil/actualites",
+        "canonical_url": "https://www.soprasteria.fr/services/conseil/actualites",
+        "language": "fr",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "659a527e6392c6444bc62d4e91d9b2278fe12e492e782edf5b5f3ba39ae9e9dd",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "France",
+        "source_domain": "soprasteria.fr",
+        "source_url": "https://www.soprasteria.fr/services/conseil/nos-client-stories",
+        "title": "Carrières",
+        "description": "Avec Sopra Steria Next, vous évoluez au sein d’un collectif stimulant, d’un espace de libertés et d’échanges.",
+        "url": "https://www.soprasteria.fr/services/conseil/carriere",
+        "canonical_url": "https://www.soprasteria.fr/services/conseil/carriere",
+        "language": "fr",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "b6485168b15367c2c7d02f687c2a6479c4117e64ae50684e7459e5412b2e6166",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "France",
+        "source_domain": "soprasteria.fr",
+        "source_url": "https://www.soprasteria.fr/services/conseil/nos-client-stories",
+        "title": "L'exploratoire Sopra Steria Next",
+        "description": "Le do tank qui place l'éthique numérique au cœur de l'action",
+        "url": "https://www.soprasteria.fr/services/conseil/exploratoire",
+        "canonical_url": "https://www.soprasterianext.fr/lexploratoire",
+        "language": "fr",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "d44f0f30076d17fe49e3b2bccd40f0136940c42a750b5f6fc6cc67e7dc0698ca",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "France",
+        "source_domain": "soprasteria.fr",
+        "source_url": "https://www.soprasteria.fr/services/conseil/nos-client-stories",
+        "title": "Sopra Steria France - Le monde est tel que nous le façonnons",
+        "description": "Une grille d’analyse innovante pour l'IA : 4 archétypes pour en faire un levier de performance",
+        "url": "https://www.soprasteria.fr/",
+        "canonical_url": "https://www.soprasteria.fr/",
+        "language": "fr",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "5b00e1ec2f6d42b294192eb60cb104be849ec0eed406fddcc0d42a68245d5bdb",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "France",
+        "source_domain": "soprasteria.fr",
+        "source_url": "https://www.soprasteria.fr/services/conseil/nos-client-stories",
+        "title": "Bienvenue chez Sopra Steria Next France",
+        "description": "C'est de l'action que naît l'inspiration Sopra Steria Next, le conseil en transformation digitale. En matière de transformation digitale, chez Sopra Steria Next, nous pensons qu’une vision stratégique ne vaut que si elle est actionnable.",
+        "url": "https://www.soprasteria.fr/services/conseil",
+        "canonical_url": "https://www.soprasteria.fr/services/conseil",
+        "language": "fr",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "3b2d3f6f9ccacb312135df7cbe27fc07c506b62dd08e31817decf96ffd2acfdb",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "France",
+        "source_domain": "soprasteria.fr",
+        "source_url": "https://www.soprasteria.fr/services/conseil/nos-client-stories",
+        "title": "Contactez-nous",
+        "description": "Nous utilisons des cookies sur notre site Web. Un cookie est un petit fichier de données qu'un site Web stocke sur l'ordinateur ou l'appareil mobile du visiteur.",
+        "url": "https://www.soprasteria.fr/bas-de-page/politique-de-cookie",
+        "canonical_url": "https://www.soprasteria.fr/bas-de-page/politique-de-cookie",
+        "language": "fr",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "41713f6d0e9baa4d2a5d1c881d415f98c6cfbab54db5489222fcc05dae08529d",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "France",
+        "source_domain": "soprasteria.fr",
+        "source_url": "https://www.soprasteria.fr/services/conseil/nos-client-stories",
+        "title": "Conditions générales",
+        "description": "Les conditions générales d’utilisation définissent et encadrent les modalités d’accès et de navigation sur le site web et déterminent les droits et les obligations respectifs de l’utilisateur et de l’éditeur dans le cadre de l’utilisation du site.",
+        "url": "https://www.soprasteria.fr/bas-de-page/conditions-generales",
+        "canonical_url": "https://www.soprasteria.fr/bas-de-page/conditions-generales",
+        "language": "fr",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "c5318829d03926f79f080d9daf6c4a8dabaffc14d58f4da7285a076d6c334a2f",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "France",
+        "source_domain": "soprasteria.fr",
+        "source_url": "https://www.soprasteria.fr/services/conseil/nos-client-stories",
+        "title": "Protection des Données à caractère personnel",
+        "description": "La Charte de Protection des Données à Caractère Personnel a pour objet d'informer sur la nature des données collectées lors de la consultation et l'utilisation du site web ainsi que des conditions de traitement de ces données.",
+        "url": "https://www.soprasteria.fr/bas-de-page/charte-donnees-personnelles",
+        "canonical_url": "https://www.soprasteria.fr/bas-de-page/charte-donnees-personnelles",
+        "language": "fr",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "42ac30371c2e5ac353c303f609f6b9a1157d206e9251b342091bf80081b8155b",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "France",
+        "source_domain": "soprasteria.fr",
+        "source_url": "https://www.soprasteria.fr/services/conseil/nos-client-stories",
+        "title": "Alerte",
+        "description": "Sopra Steria alerte sur l'existence de tentatives de fraude et d'escroquerie en Europe impliquant notamment l'usurpation de l'identité de la société Sopra Steria Group selon des modes opératoires différents.",
+        "url": "https://www.soprasteria.fr/bas-de-page/alerte-tentative-escroquerie-usurpation-identite",
+        "canonical_url": "https://www.soprasteria.fr/bas-de-page/alerte-tentative-escroquerie-usurpation-identite",
+        "language": "fr",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "1d3b0ad511a5e6146936c5f71d433aba0c086e9c48b7226faad5beff5b43084c",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "France",
+        "source_domain": "soprasteria.fr",
+        "source_url": "https://www.soprasteria.fr/services/conseil/nos-client-stories",
+        "title": "Plan du site",
+        "description": "Plan du site - Sopra Steria",
+        "url": "https://www.soprasteria.fr/bas-de-page/plan-du-site",
+        "canonical_url": "https://www.soprasteria.fr/bas-de-page/plan-du-site",
+        "language": "fr",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "c6651c43b2b8f815166a8bd4537c561239631683aefc11c33e9a7688543539e7",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "France",
+        "source_domain": "soprasteria.fr",
+        "source_url": "https://www.soprasteria.fr/services/conseil/nos-client-stories",
+        "title": "Contactez-nous",
+        "description": "Contacter Sopra Steria - Parler à un expert - Rejoindre Sopra Steria - Nous trouver",
+        "url": "https://www.soprasteria.fr/bas-de-page/contactez-nous",
+        "canonical_url": "https://www.soprasteria.fr/bas-de-page/contactez-nous",
+        "language": "fr",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "465fe1805c2de1926e07047a346e04f2d3e5ec037107767b0a222f9cbc340917",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "France",
+        "source_domain": "soprasteria.fr",
+        "source_url": "https://www.soprasteria.fr/services/conseil/nos-client-stories",
+        "title": "Déclaration d'accessibilité",
+        "description": "Quel est la politique d'accessibilité du site web Sopra Steria ? Voir la page définissant le niveau d'accessibilité général du site et ce, conformément aux référentiels et à la réglementation en vigueur.",
+        "url": "https://www.soprasteria.fr/bas-de-page/declaration-d-accessibilite",
+        "canonical_url": "https://www.soprasteria.fr/bas-de-page/declaration-d-accessibilite",
+        "language": "fr",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "b29e06a5f5678b3eef9c1174d9aa5a4b1029227eef115ab82ebebd35c5bde311",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Italy",
+        "source_domain": "soprasteria.it",
+        "source_url": "https://www.soprasteria.it/chi-siamo/storie-di-successo",
+        "title": "Scopri il tuo potenziale in Sopra Steria",
+        "description": "Sopra Steria, uno dei principali attori tecnologici in Europa, Ã¨ rinomata per i suoi servizi di consulenza, servizi digitali e sviluppo software. Aiuta i propri clienti a promuovere la loro trasformazione digitale e ottenere vantaggi tangibili e sostenibili.",
+        "url": "https://www.soprasteria.it/carriere",
+        "canonical_url": "https://careers.soprasteria.it/",
+        "language": "it",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "103bd29fcb2166582e6941710e81ec766e814e32a5a47d261a7d639cecc4ef05",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Italy",
+        "source_domain": "soprasteria.it",
+        "source_url": "https://www.soprasteria.it/chi-siamo/storie-di-successo",
+        "title": "Blog",
+        "description": "Il blog di Sopra Steria è uno spazio dedicato all'innovazione che dà voce ai collaboratori del gruppo su tematiche di forte attualità del mondo Tech.",
+        "url": "https://www.soprasteria.it/digital_digest_blog",
+        "canonical_url": "https://www.soprasteria.it/digital_digest_blog",
+        "language": "it",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "9e1902773597d801b576d1ecbffec04b7c7f57536b3567c583b0bc3f0418fd6c",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Italy",
+        "source_domain": "soprasteria.it",
+        "source_url": "https://www.soprasteria.it/chi-siamo/storie-di-successo",
+        "title": "Newsroom",
+        "description": "Trovi qui tutti i comunicati stampa dall'Italia e dal mondo riguardanti Sopra Steria Group.",
+        "url": "https://www.soprasteria.it/newsroom",
+        "canonical_url": "https://www.soprasteria.it/newsroom",
+        "language": "it",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "83b879f403e28925f2a2a8b6dfee7e39f491c229a0481d00dc21719721af8159",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Italy",
+        "source_domain": "soprasteria.it",
+        "source_url": "https://www.soprasteria.it/chi-siamo/storie-di-successo",
+        "title": "Storie di Successo | Sopra Steria",
+        "description": "In questa sezione presentiamo i case di successo: progetti completi che raccontano come Sopra Steria accompagna le organizzazioni nella loro trasformazione digitale, generando risultati concreti, misurabili e replicabili.",
+        "url": "https://www.soprasteria.it/chi-siamo/storie-di-successo",
+        "canonical_url": "https://www.soprasteria.it/chi-siamo/storie-di-successo",
+        "language": "it",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "6cb158b8eb36097c1c388f5996c89434d1a5b2c743cb8f127e91d0ee39911dad",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Italy",
+        "source_domain": "soprasteria.it",
+        "source_url": "https://www.soprasteria.it/chi-siamo/storie-di-successo",
+        "title": "Sopra Steria IT",
+        "description": "",
+        "url": "https://www.soprasteria.it/",
+        "canonical_url": "https://www.soprasteria.it/",
+        "language": "it",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "22bac7b2d9124c19af5b5b39f2813a49b9d5f9cc1d335aff8102ffdc5fa9d02a",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Italy",
+        "source_domain": "soprasteria.it",
+        "source_url": "https://www.soprasteria.it/chi-siamo/storie-di-successo",
+        "title": "Informativa sui Cookies",
+        "description": "Utilizziamo cookie sul nostro sito web. Un cookie è un piccolo pezzo di dati che un sito web memorizza sul computer o dispositivo mobile del visitatore. Utilizziamo i cookie per garantire il funzionamento tecnico del nostro sito e, se acconsenti, per raccogliere dati sulla tua esperienza di navigazione per statistiche aggregate, con l'obiettivo di migliorare la nostra comunicazione e i servizi offerti. Di seguito sono riportate le categorie di cookie che utilizziamo:",
+        "url": "https://www.soprasteria.it/footer/cookies-policy-",
+        "canonical_url": "https://www.soprasteria.it/footer/cookies-policy-",
+        "language": "it",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "374f648aca36c55bf59e81690af1286e3af8cbb7ecf6666ef28946a06ac90da4",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Italy",
+        "source_domain": "soprasteria.it",
+        "source_url": "https://www.soprasteria.it/chi-siamo/storie-di-successo",
+        "title": "Termini di utilizzo",
+        "description": "Questo sito è di proprietà di Sopra Steria Group.",
+        "url": "https://www.soprasteria.it/footer/termini-di-utilizzo",
+        "canonical_url": "https://www.soprasteria.it/footer/termini-di-utilizzo",
+        "language": "it",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "e0472d78c4f9f88bb15db76196fb6a97e6bc714fb63ef3465c3e422524464b3b",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Italy",
+        "source_domain": "soprasteria.it",
+        "source_url": "https://www.soprasteria.it/chi-siamo/storie-di-successo",
+        "title": "Etica e Compliance",
+        "description": "Sopra Steria, per assicurare le condizioni di correttezza e trasparenza, ha introdotto un proprio modello di organizzazione, gestione e controllo.",
+        "url": "https://www.soprasteria.it/footer/ethics-and-complianceIT",
+        "canonical_url": "https://www.soprasteria.it/footer/ethics-and-complianceIT",
+        "language": "it",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "b721819c17791b5155f927af3bae97bb08cc2c9fd7c72d9f59a59266df1b9a8f",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Italy",
+        "source_domain": "soprasteria.it",
+        "source_url": "https://www.soprasteria.it/chi-siamo/storie-di-successo",
+        "title": "Carta per la protezione dei dati personali",
+        "description": "Sopra Steria Group S.p.A., con un capitale di €3.660.000,00, codice fiscale e partita IVA n° 10850910158, con sede legale in Assago (MI), Milanofiori Strada 4 Pal. A7 (di seguito “Sopra Steria”, “noi” o “ci”), attribuisce grande importanza alla protezione dei dati personali degli utenti del proprio sito web (di seguito “Utenti” o “Tu”). Alcuni dei servizi offerti su determinate pagine del nostro sito web richiedono il trattamento dei tuoi dati personali. Lo scopo di questa informativa è quindi fornirti informazioni sui modi in cui Sopra Steria, in qualità di Titolare del Trattamento, gestisce i tuoi dati personali tramite il sito web, inclusi i cookie. Questa dichiarazione non copre i dettagli relativi ai candidati che possono essere trovati nel nostro portale Carriere (consultare l' Informativa sulla Protezione dei Dati del Candidato per il processo di assunzione) o ai dipendenti, che possono essere trovati nel nostro intranet. Questa informativa è conforme alle leggi applicabili, incluso il Regolamento (UE) 2016/679 del Parlamento Europeo e del Consiglio del 27 aprile 2016 sulla protezione delle persone fisiche riguardo al trattamento dei dati personali e alla libera circolazione di tali dati (“GDPR”). Ti informiamo che questa informativa potrebbe essere aggiornata di tanto in tanto da parte di Sopra Steria. La data dell'aggiornamento più recente sarà visibile su questa pagina. Ti invitiamo pertanto a consultarla regolarmente.",
+        "url": "https://www.soprasteria.it/footer/informativa-sulla-privacy",
+        "canonical_url": "https://www.soprasteria.it/footer/informativa-sulla-privacy",
+        "language": "it",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "9214ec8aef7d9775a2cd77c8c31909e7f56f81fd36c535ed3625998707eb67e8",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Italy",
+        "source_domain": "soprasteria.it",
+        "source_url": "https://www.soprasteria.it/chi-siamo/storie-di-successo",
+        "title": "Informativa sulla protezione dei dati dei Clienti",
+        "description": "",
+        "url": "https://www.soprasteria.it/footer/informativa-sulla-protezione-dei-dati-dei-clienti",
+        "canonical_url": "https://www.soprasteria.it/footer/informativa-sulla-protezione-dei-dati-dei-clienti",
+        "language": "it",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "d425f1c1361856b083a1433e9a0e31f0e47a6b8259b7231595763226673a9548",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Italy",
+        "source_domain": "soprasteria.it",
+        "source_url": "https://www.soprasteria.it/chi-siamo/storie-di-successo",
+        "title": "Informativa sulla Protezione dei Dati dei Candidati",
+        "description": "Sopra Steria Group S.p.A., con un capitale di €3.660.000,00, codice fiscale e partita IVA n° 10850910158, con sede legale in Assago (MI), Milanofiori Strada 4 Pal. A7, (di seguito denominata \"Sopra Steria\", \"noi\" o \"ci\") attribuisce grande importanza alla protezione dei dati personali dei propri candidati (di seguito denominati \"Candidati\" o \"Voi\"). Lo scopo di questa informativa è fornire ai candidati (che rispondono a offerte di lavoro pubblicate da Sopra Steria o che si candidano spontaneamente) informazioni sul trattamento dei loro dati personali durante il processo di reclutamento, che può avvenire attraverso qualsiasi canale disponibile (sito web, e-mail, strumenti di reclutamento, social network professionali come LinkedIn, ecc.). Si prega di notare che questa informativa potrebbe essere aggiornata periodicamente da Sopra Steria. La data dell'aggiornamento più recente apparirà su questa pagina. Pertanto, Vi invitiamo a consultarla regolarmente. 1. Quali dati personali trattiamo su di Voi? Trattiamo solo i dati personali strettamente necessari per valutare la Vostra idoneità alla posizione proposta e valutare le Vostre competenze professionali. Di conseguenza, possiamo trattare le seguenti categorie di dati personali:",
+        "url": "https://www.soprasteria.it/footer/protezione_dati_candidati",
+        "canonical_url": "https://www.soprasteria.it/footer/protezione_dati_candidati",
+        "language": "it",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "ace1c3913b6b91ca0fde96200feeffbb708a206a73a4769c03a1a4c0eb21ddb2",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Italy",
+        "source_domain": "soprasteria.it",
+        "source_url": "https://www.soprasteria.it/chi-siamo/storie-di-successo",
+        "title": "Politica per l’Ambiente e la Salute e Sicurezza sul Lavoro",
+        "description": "La Direzione della Sopra Steria Group Spa, società leader europea della consulenza, dei servizi digitali e dello sviluppo di software, si impegna a prevenire l’inquinamento, a garantire la salvaguardia e la protezione dell’ambiente e a perseguire il miglioramento continuo delle proprie prestazioni ambientali minimizzando i rischi correlati alle attività svolte e ai servizi erogati.",
+        "url": "https://www.soprasteria.it/footer/iso_14001",
+        "canonical_url": "https://www.soprasteria.it/footer/iso_14001",
+        "language": "it",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "fea328db39365c512c202fe5efcf6ad7ea9f53957d844b56a75336c404c9c4d7",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Italy",
+        "source_domain": "soprasteria.it",
+        "source_url": "https://www.soprasteria.it/chi-siamo/storie-di-successo",
+        "title": "Mappa del sito",
+        "description": "The world is how we shape it",
+        "url": "https://www.soprasteria.it/footer/mappa-del-sito",
+        "canonical_url": "https://www.soprasteria.it/footer/mappa-del-sito",
+        "language": "it",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "5ecb3026689720180611418109eab5dc88d43aa579b4efe8e171725ca94fdca5",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Italy",
+        "source_domain": "soprasteria.it",
+        "source_url": "https://www.soprasteria.it/chi-siamo/storie-di-successo",
+        "title": "Le sedi in Italia",
+        "description": "Centro Direzionale Milanofiori Strada 4, Palazzo A7 20057 Assago (MI) Tel: +39 02 892 291 Fax: +39 02 575 014 61",
+        "url": "https://www.soprasteria.it/footer/contatti",
+        "canonical_url": "https://www.soprasteria.it/footer/contatti",
+        "language": "it",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "cbc70d343478b4b4766e6140e647fb2f62c6cb0de62dcb4db30199062d14dc25",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Italy",
+        "source_domain": "soprasteria.it",
+        "source_url": "https://www.soprasteria.it/chi-siamo/storie-di-successo",
+        "title": "Sopra Steria IT",
+        "description": "",
+        "url": "https://www.soprasteria.it/soprasteria.it",
+        "canonical_url": "https://www.soprasteria.it/",
+        "language": "it",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "22bac7b2d9124c19af5b5b39f2813a49b9d5f9cc1d335aff8102ffdc5fa9d02a",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Italy",
+        "source_domain": "soprasteria.it",
+        "source_url": "https://www.soprasteria.it/chi-siamo/storie-di-successo",
+        "title": "Informativa sulla protezione dei dati dei fornitori",
+        "description": "",
+        "url": "https://www.soprasteria.it/footer/protezione_dati_fornitori",
+        "canonical_url": "https://www.soprasteria.it/footer/protezione_dati_fornitori",
+        "language": "it",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "e14a233023bfd7cbac0cd34ba3958ed89fb1b61b3d4705c42d412a3107f4d5b7",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Netherlands",
+        "source_domain": "soprasteria.nl",
+        "source_url": "https://www.soprasteria.nl/newsroom/success-stories",
+        "title": "Client Stories",
+        "description": "Discover all our client stories",
+        "url": "https://www.soprasteria.nl/newsroom/success-stories",
+        "canonical_url": "https://www.soprasteria.nl/newsroom/success-stories",
+        "language": "en",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "1ff9acde14712a3648b5b2d63c2a33ad222996c2261b0f6d3fff68eb3e5a827f",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Netherlands",
+        "source_domain": "soprasteria.nl",
+        "source_url": "https://www.soprasteria.nl/newsroom/success-stories",
+        "title": "Sopra Steria Netherlands - The world is how we shape it",
+        "description": "",
+        "url": "https://www.soprasteria.nl/",
+        "canonical_url": "https://www.soprasteria.nl/",
+        "language": "en",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "0bb5927ecc282864e0036f8c847c1ec5f0d26c39a462bf07b401637e5d5b487b",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Netherlands",
+        "source_domain": "soprasteria.nl",
+        "source_url": "https://www.soprasteria.nl/newsroom/success-stories",
+        "title": "The world is how we shape it",
+        "description": "Discover all our publications, press releases, news, blog articles,...",
+        "url": "https://www.soprasteria.nl/newsroom",
+        "canonical_url": "https://www.soprasteria.nl/newsroom",
+        "language": "en",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "b5d1d3427a4ecae4d06714339219dffefcc7af26e1ce7eee7434a987d768ef12",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Netherlands",
+        "source_domain": "soprasteria.nl",
+        "source_url": "https://www.soprasteria.nl/newsroom/success-stories",
+        "title": "Terms of Use",
+        "description": "Sopra Syeria's The Netherland terms of use",
+        "url": "https://www.soprasteria.nl/footer/terms-of-use",
+        "canonical_url": "https://www.soprasteria.nl/footer/terms-of-use",
+        "language": "en",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "3c408911669649a80ea0a8e393df216be4c7cbcbec48a765debfaaa8e540efb6",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Netherlands",
+        "source_domain": "soprasteria.nl",
+        "source_url": "https://www.soprasteria.nl/newsroom/success-stories",
+        "title": "Personal Data Protection Charter",
+        "description": "Sopra Steria's Personal Data Protection Charter",
+        "url": "https://www.soprasteria.nl/footer/personal-data-protection-charter",
+        "canonical_url": "https://www.soprasteria.nl/footer/personal-data-protection-charter",
+        "language": "en",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "745600f54090742a0c763ecfd91c9cd3328a1d1e6ec5ff3eaf6dea62abd35bdf",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Netherlands",
+        "source_domain": "soprasteria.nl",
+        "source_url": "https://www.soprasteria.nl/newsroom/success-stories",
+        "title": "Protection of personal data",
+        "description": "Sopra Steria Group is committed to protecting the privacy and security of personal information it holds and processes in accordance with applicable Data Protection laws, in particular with Regulation (EC) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (“GDPR”). To this end, Sopra Steria Group has set up a Governance Model for the protection of personal data which is applicable across all subsidiaries to ensure compliance with the requirements of the EU Regulation and other applicable laws.",
+        "url": "https://www.soprasteria.nl/footer/group-personal-data-protection",
+        "canonical_url": "https://www.soprasteria.com/about-us/protection-of-personal-data",
+        "language": "en",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "0abd43ab5fb13c5006264b1fb08c0c6979bf3913a291ec5c05eb6c08218a7d97",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Netherlands",
+        "source_domain": "soprasteria.nl",
+        "source_url": "https://www.soprasteria.nl/newsroom/success-stories",
+        "title": "General purchase conditions",
+        "description": "Here you can access and download our General Purchasing Conditions.",
+        "url": "https://www.soprasteria.nl/footer/general-purchase-conditions",
+        "canonical_url": "https://www.soprasteria.nl/footer/general-purchase-conditions",
+        "language": "en",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "79200c0ebcb1caa00166ec04bca08446040d5ecb86d9efa44a1f92fd1aaff8a8",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Denmark",
+        "source_domain": "soprasteria.dk",
+        "source_url": "https://www.soprasteria.dk/",
+        "title": "Sopra Steria Danmark - The world is how we shape it",
+        "description": "Sopra Steria er end-to-end leverandør af digitalisering og IT-tjenester. Vi støtter store private virksomheder og offentlige organisationer med at påtage sig digitalt lederskab og stræber efter at skabe værdi for vores kunder og samfundet.",
+        "url": "https://www.soprasteria.dk/",
+        "canonical_url": "https://www.soprasteria.dk/",
+        "language": "da",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "0a0c57139c4e1875fb58d93e40bcaebcf1f5fd7def9d0239161655f0f14736d0",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Vi skapar ett bättre samhälle genom digital transformation",
+        "description": "Vi är en pålitlig partner genom hela den digitala transformationen. Med vår specialistkompetens inom IT, tech, design och innovation samt över 60 000 konsulter runt om i världen, ser vi till att era digitaliseringsprojekt möjliggörs.",
+        "url": "https://www.soprasteria.se/erbjudande",
+        "canonical_url": "https://www.soprasteria.se/erbjudande",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "b2588089a9a1b15c9c2c22bd186f4a8b08143f85b68991edbab67c2d18ee860e",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Artificial Intelligence",
+        "description": "Sopra Steria erbjuder omfattande AI-tjänster för att hjälpa företag att utnyttja artificiell intelligens. Genom vår mognadstrappa identifieras företagets nuvarande position och framtida mål inom AI. Vi erbjuder skräddarsydda paket för att påbörja AI-resan, integrera AI i verksamheten och maximera AI-användningen för att förbättra processer, beslutsfattande och effektivitet. Oavsett var ni befinner er i er AI-resa, står Sopra Steria redo att stötta och guida er mot en AI-driven framtid.",
+        "url": "https://www.soprasteria.se/erbjudande/ai",
+        "canonical_url": "https://www.soprasteria.se/erbjudande/ai",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "02b1eaab27761d632e4205cb9cbe4f6499ae2b87195cedcd1ac112a800df5f54",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Advisory Services",
+        "description": "Upptäck våra omfattande rådgivningstjänster inom digital transformation, IT-strategi och affärsutveckling. Sopra Steria erbjuder skräddarsydda lösningar för att effektivisera din verksamhet och driva hållbar förändring. Vi hjälper ditt företag att navigera komplexa utmaningar med innovativ strategi, förändringsledning och riskhantering. Utforska hur vi kan stärka din affärsmodell och framtidssäkra din organisation.",
+        "url": "https://www.soprasteria.se/erbjudande/advisory-service",
+        "canonical_url": "https://www.soprasteria.se/erbjudande/advisory-service",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "fc9a4e6bb69f5eb1c66cf68e1fe60cf2a1a69487b9f4ed268a54d0bc930b3784",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Business Platforms",
+        "description": "Upptäck kraften i moderna affärsapplikationer och hur de kan hjälpa er att effektivisera processer, öka produktiviteten och maximera er verksamhet. Vi erbjuder skräddarsydda lösningar som kan integreras smidigt i er befintliga IT-miljö. Vi hjälper er med allt från implementation och utveckling till underhåll och förvaltning.",
+        "url": "https://www.soprasteria.se/erbjudande/business-platforms",
+        "canonical_url": "https://www.soprasteria.se/erbjudande/business-platforms",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "ef4e5ee5d322f64910e82e14a5e24c7c9bf4aedf63782f22e521fe2e92cad275",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Cybersecurity",
+        "description": "I en allt mer digitaliserad värld har cybersecurity blivit en av de viktigaste frågorna för företag och organisationer. Med en ökande mängd avancerade hot och attacker mot företagens nätverk och data är det viktigt att säkerställa att företagsdata är skyddade och säkra.",
+        "url": "https://www.soprasteria.se/erbjudande/cyber-security",
+        "canonical_url": "https://www.soprasteria.se/erbjudande/cyber-security",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "579a16fd9d4bacc001d70d0c0c8eccfac124d11a26a9cfc768021891ea9267ef",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Modern Data Architecture",
+        "description": "Förmågan att analysera stora mängder data blir allt mer avgörande för en organisations framgång. Våra experter inom dataanalys, programmering, databas och visualisering av data hjälper er att skapa en datadriven kultur och infrastruktur där ni kan agera proaktivt och omvandla data till insikter och beslutsunderlag.",
+        "url": "https://www.soprasteria.se/erbjudande/data-management",
+        "canonical_url": "https://www.soprasteria.se/erbjudande/data-management",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "887d212efea280ece2ce84f485f55947f6ed7f5eeeea99f1963cc75d55f03230",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Innovation & Design",
+        "description": "Vi hjälper er att ta fram revolutionerande idéer och utforma användarcentrerade digitala lösningar och tjänster som överträffar kundernas förväntningar. Med hjälp av våra experter kan ni ta er affärsutveckling och innovationsförmåga till nya höjder, skapa en ledande position på en snabbt föränderlig marknad och omdefiniera spelreglerna.",
+        "url": "https://www.soprasteria.se/erbjudande/eggs-part-of-sopra-steria",
+        "canonical_url": "https://www.soprasteria.se/erbjudande/eggs-part-of-sopra-steria",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "c3ea4e085e280c263a04f29ebf4c663d67a9c00e1c379a9ca97c9ac496a14fcc",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Managed Services",
+        "description": "Sopra Steria erbjuder managerade tjänster som hjälper företag att effektivisera och optimera sin IT-drift. Våra tjänster omfattar övervakning, support, och förvaltning av IT-miljöer, vilket frigör tid och resurser för kunderna att fokusera på sin kärnverksamhet. Med skräddarsydda lösningar säkerställer vi hög tillgänglighet, säkerhet och prestanda för IT-system, samt kontinuerlig förbättring genom proaktiv övervakning och modernisering.",
+        "url": "https://www.soprasteria.se/erbjudande/managed-services",
+        "canonical_url": "https://www.soprasteria.se/erbjudande/managed-services",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "19063e95b222a97c533921ab2270efcdba1a6501a6bdc0567f93d450982a1f41",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "System Development",
+        "description": "Skapa skräddarsydda lösningar som uppfyller era behov. Vi sträcker oss bortom begränsningarna hos standardprodukter och plattformar för att skapa anpassade lösningar som integreras sömlöst med er befintliga verksamhet.",
+        "url": "https://www.soprasteria.se/erbjudande/system-development",
+        "canonical_url": "https://www.soprasteria.se/erbjudande/system-development",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "ad021cad67e096d208c37a5d8fa2ec81aae6f347ea9774c13d8112cfe7fe06c4",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Technology Management",
+        "description": "Vi tillhandahåller omfattande projektledning, ledarskap och innovativa tillvägagångssätt för att optimera kundupplevelser och interna processer. Med ett globalt team av 60 000 experter säkerställer Sopra Steria att tekniska implementeringar anpassas till specifika affärsbehov och mål, och erbjuder resurser för interimslösningar eller långsiktiga strategiska partnerskap.",
+        "url": "https://www.soprasteria.se/erbjudande/technology-management",
+        "canonical_url": "https://www.soprasteria.se/erbjudande/technology-management",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "c3fb74986922f197e5ff9d519f5d0525739effecac68ecfe4117e3a07eca2720",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Kompetens som driver er bransch framåt",
+        "description": "Vår branschexpertis | Sopra Steria hjälper kunder inom flera branscher med digital förflyttning och innovation. VI är en helhetsleverantör som följer dig genom hela transformationen.",
+        "url": "https://www.soprasteria.se/branscher",
+        "canonical_url": "https://www.soprasteria.se/branscher",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "ff40256cd49b56bdca6c614ffba55e24cc77bfaff28c4b767e81bfc0209f528f",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Strategisk partner för framtidens energisektor",
+        "description": "Digitaliseringen av energisektorn innebär en möjlighet att utveckla kundcentrerade affärer som möter kunders behov med individanpassade lösningar, produkter och tjänster",
+        "url": "https://www.soprasteria.se/branscher/energi",
+        "canonical_url": "https://www.soprasteria.se/branscher/energi",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "2d3f8247b5fa0f2f396af33808c615c6b7169ba40db719e1026a61e8cf5a7fa5",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Vår expertis inom hälsosektorn",
+        "description": "Sopra Steria har gedigen erfarenhet från IT- och verksamhetsutveckling inom hälso- och sjukvård. Våra kunder är myndigheter, regioner, kommuner och utförare av vård och omsorg inom privat sektor. Samarbetet med våra kunder har gett oss mycket god branschförståelse och vi har hjälpt dem med allt ifrån att digitalisera verksamheter, utveckla och förvalta vårdsystem till nyskapande av högteknologiska lösningar.",
+        "url": "https://www.soprasteria.se/branscher/halsa",
+        "canonical_url": "https://www.soprasteria.se/branscher/halsa",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "15e0f26a740c870a9fcae3db246cfa47b36052e2c84f9bf151cf0f8f7d41a629",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Digital partner för telekom och media",
+        "description": "Utforska Sopra Sterias lösningar för telekombranschen. Vi hjälper företag att driva innovation och effektivisering med moderna IT-lösningar.",
+        "url": "https://www.soprasteria.se/branscher/telekom",
+        "canonical_url": "https://www.soprasteria.se/branscher/telekom",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "18eba7bf229e144294649afadefecbf1355f3b7f74777209297f327bd587ad8e",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Tillsammans formar vi framtidens industri",
+        "description": "Industrin i Europa är utsatt för hård konkurrens och upplever betydande prispress. Framgång kräver globalisering av leveranser, pålitlig drift, effektivisering av arbetsprocesser och dokumentation. Effektiv och innovativ IT är avgörande för att kunna möta dessa utmaningar.",
+        "url": "https://www.soprasteria.se/branscher/industrisektorn",
+        "canonical_url": "https://www.soprasteria.se/branscher/industrisektorn",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "77e5786c030f60828555d97e9fe2100419f655c5ef10a7a772be4892f6a7fd5d",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Säkerhet i en snabb föränderlig värld",
+        "description": "Upptäck Sopra Sterias omfattande säkerhetslösningar och digitala expertis för att möta de ständigt ökande hoten i den digitala världen. Med över 3 000 konsulter i Skandinavien och 60 000 globalt, inklusive 100 specialiserade säkerhetsexperter, erbjuder vi robusta cybersecurity-tjänster för att säkerställa trygghet i privat och offentlig sektor samt i verksamhetskritiska nationella projekt. Utforska vår dedikation till säkerhet och innovativa lösningar för att skydda Skandinaviens digitala framtid.",
+        "url": "https://www.soprasteria.se/branscher/forsvar",
+        "canonical_url": "https://www.soprasteria.se/branscher/forsvar",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "6f83d3a720def6cfcba3b25224573558f91fb8c1d0ce89e2204a21076af0976f",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Medlemsorganisationers digitala resa",
+        "description": "Läs om hur Sopra Steria stöttar medlemsorganisationer med innovativa lösningar för effektivare administration och förbättrad medlemsupplevelse.",
+        "url": "https://www.soprasteria.se/branscher/medlem",
+        "canonical_url": "https://www.soprasteria.se/branscher/medlem",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "3768cead81967b237c57280296caec067157baa2dc5f681ef06773eb1dadf53f",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Myndigheter",
+        "description": "Upptäck hur Sopra Steria hjälper myndigheter med digital transformation, effektivisering och innovativa IT-lösningar för framtidens utmaningar.",
+        "url": "https://www.soprasteria.se/branscher/myndigheter",
+        "canonical_url": "https://www.soprasteria.se/branscher/myndigheter",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "2e21f2a4e66f7cb08cd08a43e061cca11783711c7654ba42a9e25c613bcb2971",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Vår samlade expertis inom transportsektorn",
+        "description": "Ta hjälp av en global digitaliseringspartner på er transformationsresa mot ett samhälle med effektiva, klimatsmarta och teknologiska transporter",
+        "url": "https://www.soprasteria.se/branscher/transportsektorn",
+        "canonical_url": "https://www.soprasteria.se/branscher/transportsektorn",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "eb7948d57f473b7354f290256a1be67d17d5aa67880dd1bab93ba2fbfc38b9a1",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Digital partner inom finanssektorn",
+        "description": "Som digital transformationspartner hjälper våra kunder inom bank- finans- och försäkringsbranschen att navigera i en digitalt föränderlig miljö och ta smarta beslut för framtiden.",
+        "url": "https://www.soprasteria.se/branscher/finanssektorn",
+        "canonical_url": "https://www.soprasteria.se/branscher/finanssektorn",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "49b24dfb694c69c0539fe855ed09cd4aba5d3dd7f8ef8142eeb2c7fdf6ed1d92",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Framtidens digitala lösningar utvecklas här",
+        "description": "Vi på Sopra Steria arbetar nära våra kunder, agilt, snabbt och hållbart. Här berättar några av våra kunder om hur de valde att genomföra sin digitalisering och digitala transformation.",
+        "url": "https://www.soprasteria.se/kundreferenser",
+        "canonical_url": "https://www.soprasteria.se/kundreferenser",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "6b92671ea94425f70552033a929304470dc48822a5edcda59b96bccb3d9d1327",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "The world is how we shape it",
+        "description": "Sopra Steria är ett ledande internationellt konsultföretag inom digital transformation med en av marknadens mest omfattande tjänsteportföljer. Med kunskap och erfarenheter från många olika branscher och med hög teknisk kompetens, hjälper vi privata och offentliga organisationer i Skandinavien med att ta ett digitalt ledarskap.",
+        "url": "https://www.soprasteria.se/om-oss",
+        "canonical_url": "https://www.soprasteria.se/om-oss",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "4edba885ecc8a6cebd0ff7876c4a9b8d5721f3e32775c4a320658e1544d9a119",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Så här ser vi på hållbarhet och socialt ansvar",
+        "description": "Vi bidrar till ett bättre samhällepå flera sätt. Läs mer om hur vi tar samhällsansvar.",
+        "url": "https://www.soprasteria.se/om-oss/hallbarhet",
+        "canonical_url": "https://www.soprasteria.se/om-oss/hallbarhet",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "854a7f290823fcac8877ce65f4c61ebaf044cc971ebbe921b9e5144c1139d3e8",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "We at Sopra Steria – vårt mångfaldsinitiativ",
+        "description": "We at Sopra Steria är ett mångfaldsinitiativ som ämnar att skapa en ökad medvetenhet och förståelse kring inkludering och mångfald.",
+        "url": "https://www.soprasteria.se/om-oss/hallbarhet/we-at-sopra-steria",
+        "canonical_url": "https://www.soprasteria.se/om-oss/hallbarhet/we-at-sopra-steria",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "ea8ef0cb47872e5a962bb87036abd7d4099768674c14dd019fcda717cb8c8164",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Ett prisbelönt bolag",
+        "description": "Vi är ett vinnande bolag. Bland annat har vi blivit utsedda till Sveriges Bästa Arbetsplats flera år i rad av Great Place to Work, utsetts till Karriärföretag och tilldelats kompetenspriser som EMEA-award och Svenska Designpriset. Ett bevis för vår starka kultur och expertis inom digital transformation.",
+        "url": "https://www.soprasteria.se/om-oss/utmarkelser",
+        "canonical_url": "https://www.soprasteria.se/om-oss/utmarkelser",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "172739116d751aec0b0b5347e14256a4f89a97e4892cf3ad268604f1b14460ae",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Vill du komma i kontakt med något av våra kontor?",
+        "description": "Här hittar du kontaktuppgifter till alla våra kontor i Stockholm, Göteborg, Östersund, Sundsvall och Malmö.",
+        "url": "https://www.soprasteria.se/kontakt",
+        "canonical_url": "https://www.soprasteria.se/kontakt",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "5a645283a5ae9c6f1fd81c61792a5a2b05bb37d13430468a8759ae6dce330eae",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Vår historia",
+        "description": "Utforska Sopra Sterias historia. Läs om vår resa från starten till idag och hur vi blivit en ledande aktör inom IT och digital transformation.",
+        "url": "https://www.soprasteria.se/om-oss/historik",
+        "canonical_url": "https://www.soprasteria.se/om-oss/historik",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "8c0f343e3436b33b6176baf0c1fadc2f20883db48ba49947fe854069de7cadaf",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Vår kultur & vision",
+        "description": "Upptäck Sopra Sterias kultur och vision. Läs om våra värderingar, vårt engagemang för innovation och hur vi skapar värde för våra kunder.",
+        "url": "https://www.soprasteria.se/om-oss/kultur-vision",
+        "canonical_url": "https://www.soprasteria.se/om-oss/kultur-vision",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "eff90acd4f10ccce11d1fb95e19fd26022760069a0dbbb4773d9b5077a3a124f",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Tillsammans blir vi Sveriges bÃ¤sta arbetsplats",
+        "description": "+50 000",
+        "url": "https://careers.soprasteria.se/",
+        "canonical_url": "https://careers.soprasteria.se/",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "a9c4502a73a2be243e96f6f880f4f77e0df90c981be2ed1ed754e13c31c25d4e",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Lediga tjÃ¤nster",
+        "description": "Lön",
+        "url": "https://careers.soprasteria.se/jobs",
+        "canonical_url": "https://careers.soprasteria.se/jobs",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "0d76e5d65a0eaa09e91a0573f2d74d436749abf46e7e29176eb9decfa780b9df",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Sveriges bÃ¤sta traineeprogram inom IT",
+        "description": "VÃ¥rt Accelerateprogram Ã¤r fÃ¶r dig som Ã¤r nyexaminerad och vill accelerera din karriÃ¤r som konsult. Du blir anstÃ¤lld frÃ¥n dag ett och fÃ¥r en marknadsmÃ¤ssig lÃ¶n genom hela det treÃ¥riga programmet. Sedan 2018 har vi genomfÃ¶rt vÃ¥rt mycket uppskattade traineeprogram och givit nyutexaminerade toppstudenter frÃ¥n hÃ¶gskolor och universitet runt om i landet en rivstart pÃ¥ sin konsultkarriÃ¤r. Accelerateprogrammet ger dig med hÃ¶ga ambitioner en strukturerad utvecklingsplan fÃ¶r dina fÃ¶rsta tre Ã¥r i konsultyrket.",
+        "url": "https://careers.soprasteria.se/sveriges-b-sta-traineeprogram-inom-it",
+        "canonical_url": "https://careers.soprasteria.se/sveriges-b-sta-traineeprogram-inom-it",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "ebff14b772cf430ef9087bd9a72a6d750ecb260c6047193509bbf081ee7ef585",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Meet the team",
+        "description": "Träffa teamet bakom Sopra Steria! Lär känna våra experter som driver innovation och skapar värde för kunder varje dag. Läs mer om våra medarbetare och deras engagemang för framgång.",
+        "url": "https://www.soprasteria.se/om-oss/meet-the-team",
+        "canonical_url": "https://www.soprasteria.se/om-oss/meet-the-team",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "b240b96b17d2666c8db2940963972ab0874ee534c10b5a450f9bd35dd1d32e69",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Aktuellt",
+        "description": "Läs mer om senaste nytt från oss på Sopra Steria.",
+        "url": "https://www.soprasteria.se/aktuellt",
+        "canonical_url": "https://www.soprasteria.se/aktuellt",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "9869be89b14560aa27f52144038b0452731bc1ace990030174f9c73481b18e87",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Aktuellt",
+        "description": "Läs mer om senaste nytt från oss på Sopra Steria.",
+        "url": "https://www.soprasteria.se/aktuellt?articletype=pressrelease",
+        "canonical_url": "https://www.soprasteria.se/aktuellt?articletype=pressrelease",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "9869be89b14560aa27f52144038b0452731bc1ace990030174f9c73481b18e87",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Vi delar med oss av insikter och expertkunskap",
+        "description": "På vår blogg delar vi insikter, tips, framtidsspaningar och annan kunskap kring teknologi, processer, ledning och digital transformation.",
+        "url": "https://www.soprasteria.se/blogg",
+        "canonical_url": "https://www.soprasteria.se/blogg",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "be8826026be2ddddda445a302079da26d72e60e5c2488b560c0f0b2392aafa16",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Event & webinars",
+        "description": "Sopra Steria | Vi delar med oss av kunskap och insikter via våra event och webinars.",
+        "url": "https://www.soprasteria.se/events",
+        "canonical_url": "https://www.soprasteria.se/events",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "ca0d96fa636c7053d783dfd723682214363a689f7bb8f7d3643d1663937ac62c",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Ta del av våra insikter i form av rapporter här",
+        "description": "Genom att sprida vår expertis, bland annat genom våra årliga rapporter om teknologi, digitalisering och andra viktiga ämnen, bidrar vi till att accelerera utvecklingen för både våra kunder och oss själva.",
+        "url": "https://www.soprasteria.se/rapporter",
+        "canonical_url": "https://www.soprasteria.se/rapporter",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "cecb1e4a4d4b1f51f0fcbea0eaca33b29c461cff621363f648d118eb3787fe63",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Det digitala undret",
+        "description": "Det digitala undret - En YouTube-serie om digitaliseringens påverkan på olika områden i samhället, dess utmaningar och möjligheter. I serien tar vi upp AI och arbetsmarknaden, E-sportens framväxt, självkörande bilar, vad händer egentligen i molnet?, är hållbar digitalisering möjlig, är digitaliseringen räddningen på vårdkrisen, hur står sig Sverige mot cyberhot och hur påverkar digitaliseringen människors kommunikation?",
+        "url": "https://www.soprasteria.se/det-digitala-undret",
+        "canonical_url": "https://www.soprasteria.se/det-digitala-undret",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "f2951de3dcc2a773b8e43efd9fd2fcc27f331d031eead8aeddb158da010e35d9",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Kontakta oss",
+        "description": "Ta hjälp av Sopra Sterias expertis och kompetens för att digitalisera och framtidssäkra er verksamhet. Vi är en global aktör med bredden för att vara er partner genom hela processen, från idé till verkställande och förvaltning. Ta kontakt med oss idag för att höra hur vi kan hjälpa just er.",
+        "url": "https://www.soprasteria.se/kontakta-oss",
+        "canonical_url": "https://www.soprasteria.se/kontakta-oss",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "14106b5cf504e48f40f2800a5b24abe546a9049888df4980ce1a24ff05330c63",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Sopra Steria Sverige Integritetspolicy och cookies",
+        "description": "Sopra Sterias integritetspolicy beskriver hur företaget samlar in och använder information om besökare på deras webbplats, deltagare i event, kandidater och arbetssökande, samt hur de skyddar din integritet. Personuppgifter behandlas i enlighet med gällande lagstiftning.",
+        "url": "https://www.soprasteria.se/integritetspolicy",
+        "canonical_url": "https://www.soprasteria.se/integritetspolicy",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "048c550f83038c2b9eaeeed1576716160481adfa3b404c2d0ab872964503d3fa",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "TA DEL AV VÅRT NYHETSBREV",
+        "description": "",
+        "url": "https://www2.soprasteria.se/l/957742/2025-06-16/82qrf",
+        "canonical_url": "https://www2.soprasteria.se/l/957742/2025-06-16/82qrf",
+        "language": "en",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-21T07:12:07.412790+00:00",
+        "content_hash": "270955e4f1ae1907470e558bfa5c21d87798807e64f82ddfa8cc6fe55d4eb710",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "NEW"
+      }
+    }
+  ]
 }
