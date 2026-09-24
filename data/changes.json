@@ -1,11 +1,31 @@
 {
-  "run_at": "2026-09-23T06:30:56.397708+00:00",
+  "run_at": "2026-09-24T06:30:42.045008+00:00",
   "summary": {
     "sources": 7,
     "discovered": 101,
     "new": 0,
-    "updated": 0,
+    "updated": 1,
     "errors": 0
   },
-  "changes": []
+  "changes": [
+    {
+      "type": "UPDATED",
+      "record": {
+        "market": "France",
+        "source_domain": "soprasteria.fr",
+        "source_url": "https://www.soprasteria.fr/services/conseil/nos-client-stories",
+        "title": "Espace médias",
+        "description": "Il est temps d’adopter une loi claire, loin des expérimentations temporaires, pour sécuriser les usages et soutenir la filière nationale.",
+        "url": "https://www.soprasteria.fr/espace-media",
+        "canonical_url": "https://www.soprasteria.fr/espace-media",
+        "language": "fr",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-24T06:30:42.045008+00:00",
+        "content_hash": "e5105673259a0702798037b1ce8b6b8664b10fb9306bde1afedc1324e403ae3a",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "UPDATED"
+      }
+    }
+  ]
 }
