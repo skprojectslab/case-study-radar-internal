@@ -1,48 +1,31 @@
 {
-  "run_at": "2026-09-26T06:29:27.525173+00:00",
+  "run_at": "2026-09-27T06:30:06.703696+00:00",
   "summary": {
     "sources": 7,
-    "discovered": 41,
+    "discovered": 101,
     "new": 0,
-    "updated": 0,
-    "errors": 6
+    "updated": 1,
+    "errors": 0
   },
   "changes": [
     {
-      "type": "ERROR",
-      "market": "Global",
-      "url": "https://www.soprasteria.com/newsroom/client-stories",
-      "error": "502 Server Error: Bad Gateway for url: https://www.soprasteria.com/newsroom/client-stories"
-    },
-    {
-      "type": "ERROR",
-      "market": "Germany",
-      "url": "https://www.soprasteria.de/newsroom/success-stories",
-      "error": "HTTPSConnectionPool(host='www.soprasteria.de', port=443): Read timed out. (read timeout=30)"
-    },
-    {
-      "type": "ERROR",
-      "market": "France",
-      "url": "https://www.soprasteria.fr/services/conseil/nos-client-stories",
-      "error": "502 Server Error: Bad Gateway for url: https://www.soprasteria.fr/services/conseil/nos-client-stories"
-    },
-    {
-      "type": "ERROR",
-      "market": "Italy",
-      "url": "https://www.soprasteria.it/chi-siamo/storie-di-successo",
-      "error": "502 Server Error: Bad Gateway for url: https://www.soprasteria.it/chi-siamo/storie-di-successo"
-    },
-    {
-      "type": "ERROR",
-      "market": "Netherlands",
-      "url": "https://www.soprasteria.nl/newsroom/success-stories",
-      "error": "502 Server Error: Bad Gateway for url: https://www.soprasteria.nl/newsroom/success-stories"
-    },
-    {
-      "type": "ERROR",
-      "market": "Denmark",
-      "url": "https://www.soprasteria.dk/",
-      "error": "502 Server Error: Bad Gateway for url: https://www.soprasteria.dk/"
+      "type": "UPDATED",
+      "record": {
+        "market": "France",
+        "source_domain": "soprasteria.fr",
+        "source_url": "https://www.soprasteria.fr/services/conseil/nos-client-stories",
+        "title": "Espace médias",
+        "description": "Top 5 des acteurs européens du secteur des ESN",
+        "url": "https://www.soprasteria.fr/espace-media",
+        "canonical_url": "https://www.soprasteria.fr/espace-media",
+        "language": "fr",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-27T06:30:06.703696+00:00",
+        "content_hash": "9d8874d600e16e37e991f83744346a60adacbfb614468b5768200b8be531d35d",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "UPDATED"
+      }
     }
   ]
 }
