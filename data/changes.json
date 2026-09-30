@@ -1,11 +1,50 @@
 {
-  "run_at": "2026-09-29T12:49:08.689257+00:00",
+  "run_at": "2026-09-30T12:30:50.573306+00:00",
   "summary": {
     "sources": 7,
     "discovered": 101,
     "new": 0,
-    "updated": 0,
+    "updated": 2,
     "errors": 0
   },
-  "changes": []
+  "changes": [
+    {
+      "type": "UPDATED",
+      "record": {
+        "market": "France",
+        "source_domain": "soprasteria.fr",
+        "source_url": "https://www.soprasteria.fr/services/conseil/nos-client-stories",
+        "title": "Espace médias",
+        "description": "Chez Sopra Steria et CIMPA, la maintenance industrielle s’invite au design grâce à Dassault Systèmes. Moins de silos, plus d’efficacité et de cohérence.",
+        "url": "https://www.soprasteria.fr/espace-media",
+        "canonical_url": "https://www.soprasteria.fr/espace-media",
+        "language": "fr",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-30T12:30:50.573306+00:00",
+        "content_hash": "56e4ea653ecbecdc1f4af2f94675bef8d2878d4cc3963691f91efe4c87d839ac",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "UPDATED"
+      }
+    },
+    {
+      "type": "UPDATED",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Myndigheter",
+        "description": "When you log in, cookies will be used.",
+        "url": "https://www.soprasteria.se/branscher/myndigheter",
+        "canonical_url": "https://www.soprasteria.se/branscher/myndigheter",
+        "language": "en",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-09-30T12:30:50.573306+00:00",
+        "content_hash": "363f378a863d66525a9a45377c386565035bb641e1f983da883a7b6731636cb9",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "UPDATED"
+      }
+    }
+  ]
 }
