@@ -1,5 +1,5 @@
 {
-  "run_at": "2026-10-03T11:36:41.299915+00:00",
+  "run_at": "2026-10-04T12:18:25.226547+00:00",
   "summary": {
     "sources": 7,
     "discovered": 101,
@@ -11,18 +11,18 @@
     {
       "type": "UPDATED",
       "record": {
-        "market": "France",
-        "source_domain": "soprasteria.fr",
-        "source_url": "https://www.soprasteria.fr/services/conseil/nos-client-stories",
-        "title": "Espace médias",
-        "description": "Carolin Busch appelle à bâtir une infrastructure spatiale résiliente, dépassant la frontière entre usages civils et militaires...",
-        "url": "https://www.soprasteria.fr/espace-media",
-        "canonical_url": "https://www.soprasteria.fr/espace-media",
-        "language": "fr",
+        "market": "Germany",
+        "source_domain": "soprasteria.de",
+        "source_url": "https://www.soprasteria.de/newsroom/success-stories",
+        "title": "Pressemitteilungen",
+        "description": "",
+        "url": "https://www.soprasteria.de/newsroom/pressemitteilungen",
+        "canonical_url": "https://www.soprasteria.de/newsroom/pressemitteilungen",
+        "language": "de",
         "categories": [],
         "published_date": "",
-        "last_seen": "2026-10-03T11:36:41.299915+00:00",
-        "content_hash": "545f061f0ebe936e888e91dc8d15fca2bd577709e48b3784fdb5c5853088f995",
+        "last_seen": "2026-10-04T12:18:25.226547+00:00",
+        "content_hash": "032e00ba593fd854bb0a58a3de2a1afa7ef7bd871ab334e9454841887ae0ad41",
         "first_seen": "2026-09-21T07:12:07.412790+00:00",
         "status": "UPDATED"
       }
