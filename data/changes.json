@@ -1,11 +1,11 @@
 {
-  "run_at": "2026-10-05T14:32:18.709981+00:00",
+  "run_at": "2026-10-06T13:15:58.738522+00:00",
   "summary": {
     "sources": 7,
-    "discovered": 101,
+    "discovered": 94,
     "new": 0,
     "updated": 1,
-    "errors": 0
+    "errors": 1
   },
   "changes": [
     {
@@ -15,17 +15,23 @@
         "source_domain": "soprasteria.de",
         "source_url": "https://www.soprasteria.de/newsroom/success-stories",
         "title": "Pressemitteilungen",
-        "description": "Pressemitteilungen & News | Sopra Steria – alle aktuellen Unternehmensmeldungen, Projekte und Innovationen mit Einblicken in digitale Trends und Branchenthemen",
+        "description": "",
         "url": "https://www.soprasteria.de/newsroom/pressemitteilungen",
         "canonical_url": "https://www.soprasteria.de/newsroom/pressemitteilungen",
         "language": "de",
         "categories": [],
         "published_date": "",
-        "last_seen": "2026-10-05T14:32:18.709981+00:00",
-        "content_hash": "c2fc59e9a3db534d51be56061aeb3f7091839ed3bd9532057499b063a9654d4b",
+        "last_seen": "2026-10-06T13:15:58.738522+00:00",
+        "content_hash": "032e00ba593fd854bb0a58a3de2a1afa7ef7bd871ab334e9454841887ae0ad41",
         "first_seen": "2026-09-21T07:12:07.412790+00:00",
         "status": "UPDATED"
       }
+    },
+    {
+      "type": "ERROR",
+      "market": "Netherlands",
+      "url": "https://www.soprasteria.nl/newsroom/success-stories",
+      "error": "HTTPSConnectionPool(host='www.soprasteria.nl', port=443): Read timed out. (read timeout=30)"
     }
   ]
 }
