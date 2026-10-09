@@ -1,66 +1,28 @@
 {
-  "run_at": "2026-10-08T13:25:00.090164+00:00",
+  "run_at": "2026-10-09T13:12:51.377240+00:00",
   "summary": {
     "sources": 7,
     "discovered": 101,
     "new": 0,
-    "updated": 6,
+    "updated": 3,
     "errors": 0
   },
   "changes": [
     {
       "type": "UPDATED",
       "record": {
-        "market": "Germany",
-        "source_domain": "soprasteria.de",
-        "source_url": "https://www.soprasteria.de/newsroom/success-stories",
-        "title": "Interviews \"Nachgefragt!\"",
-        "description": "Nachgefragt: Experten-Interviews | Sopra Steria – aktuelle Perspektiven zu Digitalisierung, Nachhaltigkeit und Innovation direkt von führenden Branchenexpert*innen",
-        "url": "https://www.soprasteria.de/newsroom/interviews-nachgefragt",
-        "canonical_url": "https://www.soprasteria.de/newsroom/interviews-nachgefragt",
-        "language": "de",
+        "market": "Global",
+        "source_domain": "soprasteria.com",
+        "source_url": "https://www.soprasteria.com/newsroom/client-stories",
+        "title": "Newsroom",
+        "description": "Aurélien Flaugnatti",
+        "url": "https://www.soprasteria.com/newsroom",
+        "canonical_url": "https://www.soprasteria.com/newsroom",
+        "language": "en",
         "categories": [],
         "published_date": "",
-        "last_seen": "2026-10-08T13:25:00.090164+00:00",
-        "content_hash": "5feee04b0a268c5004852d09785a29c30c9b695906c81d1e91e57a309658c31a",
-        "first_seen": "2026-09-21T07:12:07.412790+00:00",
-        "status": "UPDATED"
-      }
-    },
-    {
-      "type": "UPDATED",
-      "record": {
-        "market": "Germany",
-        "source_domain": "soprasteria.de",
-        "source_url": "https://www.soprasteria.de/newsroom/success-stories",
-        "title": "Pressemitteilungen",
-        "description": "",
-        "url": "https://www.soprasteria.de/newsroom/pressemitteilungen",
-        "canonical_url": "https://www.soprasteria.de/newsroom/pressemitteilungen",
-        "language": "de",
-        "categories": [],
-        "published_date": "",
-        "last_seen": "2026-10-08T13:25:00.090164+00:00",
-        "content_hash": "032e00ba593fd854bb0a58a3de2a1afa7ef7bd871ab334e9454841887ae0ad41",
-        "first_seen": "2026-09-21T07:12:07.412790+00:00",
-        "status": "UPDATED"
-      }
-    },
-    {
-      "type": "UPDATED",
-      "record": {
-        "market": "France",
-        "source_domain": "soprasteria.fr",
-        "source_url": "https://www.soprasteria.fr/services/conseil/nos-client-stories",
-        "title": "Espace médias",
-        "description": "L’IA offensive accélère les cyberattaques. Comment les organisations peuvent-elles adapter leur défense pour détecter et répondre à la vitesse machine ?",
-        "url": "https://www.soprasteria.fr/espace-media",
-        "canonical_url": "https://www.soprasteria.fr/espace-media",
-        "language": "fr",
-        "categories": [],
-        "published_date": "",
-        "last_seen": "2026-10-08T13:25:00.090164+00:00",
-        "content_hash": "4bf59f2cf98857a9cab149aefae09a7b0afbd4bb42c13bde8ce2bf64a3e03aa4",
+        "last_seen": "2026-10-09T13:12:51.377240+00:00",
+        "content_hash": "eec930c69db70b4be7cb821092303c5a143814330dcd31cda86a49d05b18ca33",
         "first_seen": "2026-09-21T07:12:07.412790+00:00",
         "status": "UPDATED"
       }
@@ -71,34 +33,15 @@
         "market": "Italy",
         "source_domain": "soprasteria.it",
         "source_url": "https://www.soprasteria.it/chi-siamo/storie-di-successo",
-        "title": "Blog",
-        "description": "Il blog di Sopra Steria è uno spazio dedicato all'innovazione che dà voce ai collaboratori del gruppo su tematiche di forte attualità del mondo Tech.",
-        "url": "https://www.soprasteria.it/digital_digest_blog",
-        "canonical_url": "https://www.soprasteria.it/digital_digest_blog",
-        "language": "it",
-        "categories": [],
-        "published_date": "",
-        "last_seen": "2026-10-08T13:25:00.090164+00:00",
-        "content_hash": "9e1902773597d801b576d1ecbffec04b7c7f57536b3567c583b0bc3f0418fd6c",
-        "first_seen": "2026-09-21T07:12:07.412790+00:00",
-        "status": "UPDATED"
-      }
-    },
-    {
-      "type": "UPDATED",
-      "record": {
-        "market": "Italy",
-        "source_domain": "soprasteria.it",
-        "source_url": "https://www.soprasteria.it/chi-siamo/storie-di-successo",
-        "title": "Politica Ambiente e Sicurezza",
-        "description": "",
+        "title": "Politica per l’Ambiente e la Salute e Sicurezza sul Lavoro",
+        "description": "La Direzione della Sopra Steria Group Spa, società leader europea della consulenza, dei servizi digitali e dello sviluppo di software, si impegna a prevenire l’inquinamento, a garantire la salvaguardia e la protezione dell’ambiente e a perseguire il miglioramento continuo delle proprie prestazioni ambientali minimizzando i rischi correlati alle attività svolte e ai servizi erogati.",
         "url": "https://www.soprasteria.it/footer/iso_14001",
         "canonical_url": "https://www.soprasteria.it/footer/iso_14001",
         "language": "it",
         "categories": [],
         "published_date": "",
-        "last_seen": "2026-10-08T13:25:00.090164+00:00",
-        "content_hash": "44fd9508e534a073275c07c0f2e8ce97887556ef5bcc32f881f699372da0f39f",
+        "last_seen": "2026-10-09T13:12:51.377240+00:00",
+        "content_hash": "fea328db39365c512c202fe5efcf6ad7ea9f53957d844b56a75336c404c9c4d7",
         "first_seen": "2026-09-21T07:12:07.412790+00:00",
         "status": "UPDATED"
       }
@@ -109,15 +52,15 @@
         "market": "Italy",
         "source_domain": "soprasteria.it",
         "source_url": "https://www.soprasteria.it/chi-siamo/storie-di-successo",
-        "title": "Contatti",
-        "description": "",
+        "title": "Le sedi in Italia",
+        "description": "Centro Direzionale Milanofiori Strada 4, Palazzo A7 20057 Assago (MI) Tel: +39 02 892 291 Fax: +39 02 575 014 61",
         "url": "https://www.soprasteria.it/footer/contatti",
         "canonical_url": "https://www.soprasteria.it/footer/contatti",
         "language": "it",
         "categories": [],
         "published_date": "",
-        "last_seen": "2026-10-08T13:25:00.090164+00:00",
-        "content_hash": "279be931fe95417f6d972ade75dabe595150e496b537348fd19a41f877e989e0",
+        "last_seen": "2026-10-09T13:12:51.377240+00:00",
+        "content_hash": "cbc70d343478b4b4766e6140e647fb2f62c6cb0de62dcb4db30199062d14dc25",
         "first_seen": "2026-09-21T07:12:07.412790+00:00",
         "status": "UPDATED"
       }
