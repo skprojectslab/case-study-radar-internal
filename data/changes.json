@@ -1,66 +1,28 @@
 {
-  "run_at": "2026-10-09T13:12:51.377240+00:00",
+  "run_at": "2026-10-10T12:28:17.348837+00:00",
   "summary": {
     "sources": 7,
     "discovered": 101,
     "new": 0,
-    "updated": 3,
+    "updated": 1,
     "errors": 0
   },
   "changes": [
     {
       "type": "UPDATED",
       "record": {
-        "market": "Global",
-        "source_domain": "soprasteria.com",
-        "source_url": "https://www.soprasteria.com/newsroom/client-stories",
-        "title": "Newsroom",
-        "description": "Aurélien Flaugnatti",
-        "url": "https://www.soprasteria.com/newsroom",
-        "canonical_url": "https://www.soprasteria.com/newsroom",
-        "language": "en",
+        "market": "Germany",
+        "source_domain": "soprasteria.de",
+        "source_url": "https://www.soprasteria.de/newsroom/success-stories",
+        "title": "Pressemitteilungen",
+        "description": "Pressemitteilungen & News | Sopra Steria – alle aktuellen Unternehmensmeldungen, Projekte und Innovationen mit Einblicken in digitale Trends und Branchenthemen",
+        "url": "https://www.soprasteria.de/newsroom/pressemitteilungen",
+        "canonical_url": "https://www.soprasteria.de/newsroom/pressemitteilungen",
+        "language": "de",
         "categories": [],
         "published_date": "",
-        "last_seen": "2026-10-09T13:12:51.377240+00:00",
-        "content_hash": "eec930c69db70b4be7cb821092303c5a143814330dcd31cda86a49d05b18ca33",
-        "first_seen": "2026-09-21T07:12:07.412790+00:00",
-        "status": "UPDATED"
-      }
-    },
-    {
-      "type": "UPDATED",
-      "record": {
-        "market": "Italy",
-        "source_domain": "soprasteria.it",
-        "source_url": "https://www.soprasteria.it/chi-siamo/storie-di-successo",
-        "title": "Politica per l’Ambiente e la Salute e Sicurezza sul Lavoro",
-        "description": "La Direzione della Sopra Steria Group Spa, società leader europea della consulenza, dei servizi digitali e dello sviluppo di software, si impegna a prevenire l’inquinamento, a garantire la salvaguardia e la protezione dell’ambiente e a perseguire il miglioramento continuo delle proprie prestazioni ambientali minimizzando i rischi correlati alle attività svolte e ai servizi erogati.",
-        "url": "https://www.soprasteria.it/footer/iso_14001",
-        "canonical_url": "https://www.soprasteria.it/footer/iso_14001",
-        "language": "it",
-        "categories": [],
-        "published_date": "",
-        "last_seen": "2026-10-09T13:12:51.377240+00:00",
-        "content_hash": "fea328db39365c512c202fe5efcf6ad7ea9f53957d844b56a75336c404c9c4d7",
-        "first_seen": "2026-09-21T07:12:07.412790+00:00",
-        "status": "UPDATED"
-      }
-    },
-    {
-      "type": "UPDATED",
-      "record": {
-        "market": "Italy",
-        "source_domain": "soprasteria.it",
-        "source_url": "https://www.soprasteria.it/chi-siamo/storie-di-successo",
-        "title": "Le sedi in Italia",
-        "description": "Centro Direzionale Milanofiori Strada 4, Palazzo A7 20057 Assago (MI) Tel: +39 02 892 291 Fax: +39 02 575 014 61",
-        "url": "https://www.soprasteria.it/footer/contatti",
-        "canonical_url": "https://www.soprasteria.it/footer/contatti",
-        "language": "it",
-        "categories": [],
-        "published_date": "",
-        "last_seen": "2026-10-09T13:12:51.377240+00:00",
-        "content_hash": "cbc70d343478b4b4766e6140e647fb2f62c6cb0de62dcb4db30199062d14dc25",
+        "last_seen": "2026-10-10T12:28:17.348837+00:00",
+        "content_hash": "c2fc59e9a3db534d51be56061aeb3f7091839ed3bd9532057499b063a9654d4b",
         "first_seen": "2026-09-21T07:12:07.412790+00:00",
         "status": "UPDATED"
       }
