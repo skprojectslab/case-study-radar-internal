@@ -1,11 +1,94 @@
 {
-  "run_at": "2026-10-11T12:45:35.935006+00:00",
+  "run_at": "2026-10-12T15:18:07.933585+00:00",
   "summary": {
     "sources": 7,
-    "discovered": 101,
+    "discovered": 94,
     "new": 0,
-    "updated": 0,
-    "errors": 0
+    "updated": 4,
+    "errors": 1
   },
-  "changes": []
+  "changes": [
+    {
+      "type": "UPDATED",
+      "record": {
+        "market": "France",
+        "source_domain": "soprasteria.fr",
+        "source_url": "https://www.soprasteria.fr/services/conseil/nos-client-stories",
+        "title": "Conseil - Sopra Steria Next",
+        "description": "",
+        "url": "https://www.soprasteria.fr/services/conseil/nos-client-stories",
+        "canonical_url": "https://www.soprasteria.fr/services/conseil/nos-client-stories",
+        "language": "ro",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-10-12T15:18:07.933585+00:00",
+        "content_hash": "025cb7044cca35125c50d282792d942adf9329a104e4d00d77aa7436d73c5ed7",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "UPDATED"
+      }
+    },
+    {
+      "type": "UPDATED",
+      "record": {
+        "market": "France",
+        "source_domain": "soprasteria.fr",
+        "source_url": "https://www.soprasteria.fr/services/conseil/nos-client-stories",
+        "title": "Actualités",
+        "description": "",
+        "url": "https://www.soprasteria.fr/services/conseil/actualites",
+        "canonical_url": "https://www.soprasteria.fr/services/conseil/actualites",
+        "language": "ca",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-10-12T15:18:07.933585+00:00",
+        "content_hash": "9bf5123f9ac17085b3b7e33114cd7a444efd388f8335a4b5f3b2d537ca1be58e",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "UPDATED"
+      }
+    },
+    {
+      "type": "UPDATED",
+      "record": {
+        "market": "Italy",
+        "source_domain": "soprasteria.it",
+        "source_url": "https://www.soprasteria.it/chi-siamo/storie-di-successo",
+        "title": "Newsroom",
+        "description": "",
+        "url": "https://www.soprasteria.it/newsroom",
+        "canonical_url": "https://www.soprasteria.it/newsroom",
+        "language": "af",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-10-12T15:18:07.933585+00:00",
+        "content_hash": "e6043c641af029d11ad2abe726de13566c2c5fe4858019f9bd14933b320937f6",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "UPDATED"
+      }
+    },
+    {
+      "type": "UPDATED",
+      "record": {
+        "market": "Italy",
+        "source_domain": "soprasteria.it",
+        "source_url": "https://www.soprasteria.it/chi-siamo/storie-di-successo",
+        "title": "Home",
+        "description": "",
+        "url": "https://www.soprasteria.it/",
+        "canonical_url": "https://www.soprasteria.it/",
+        "language": "en",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-10-12T15:18:07.933585+00:00",
+        "content_hash": "c4e78b73efc2ef954f46835122a83fb17528ecb3d53cc6d61dd1b9efcba950f8",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "UPDATED"
+      }
+    },
+    {
+      "type": "ERROR",
+      "market": "Netherlands",
+      "url": "https://www.soprasteria.nl/newsroom/success-stories",
+      "error": "HTTPSConnectionPool(host='www.soprasteria.nl', port=443): Read timed out. (read timeout=30)"
+    }
+  ]
 }
