@@ -1,10 +1,10 @@
 {
-  "run_at": "2026-10-13T14:07:54.014573+00:00",
+  "run_at": "2026-10-14T11:48:07.787090+00:00",
   "summary": {
     "sources": 7,
     "discovered": 101,
     "new": 0,
-    "updated": 6,
+    "updated": 3,
     "errors": 0
   },
   "changes": [
@@ -14,15 +14,15 @@
         "market": "Germany",
         "source_domain": "soprasteria.de",
         "source_url": "https://www.soprasteria.de/newsroom/success-stories",
-        "title": "Nachgefragt!",
-        "description": "",
+        "title": "Interviews \"Nachgefragt!\"",
+        "description": "Nachgefragt: Experten-Interviews | Sopra Steria – aktuelle Perspektiven zu Digitalisierung, Nachhaltigkeit und Innovation direkt von führenden Branchenexpert*innen",
         "url": "https://www.soprasteria.de/newsroom/interviews-nachgefragt",
         "canonical_url": "https://www.soprasteria.de/newsroom/interviews-nachgefragt",
         "language": "de",
         "categories": [],
         "published_date": "",
-        "last_seen": "2026-10-13T14:07:54.014573+00:00",
-        "content_hash": "fbca2eac89135a44c3dfe7323cd579f71f315abc384f66149ae74a70b7cbd45a",
+        "last_seen": "2026-10-14T11:48:07.787090+00:00",
+        "content_hash": "5feee04b0a268c5004852d09785a29c30c9b695906c81d1e91e57a309658c31a",
         "first_seen": "2026-09-21T07:12:07.412790+00:00",
         "status": "UPDATED"
       }
@@ -34,71 +34,14 @@
         "source_domain": "soprasteria.de",
         "source_url": "https://www.soprasteria.de/newsroom/success-stories",
         "title": "Pressemitteilungen",
-        "description": "",
+        "description": "Pressemitteilungen & News | Sopra Steria – alle aktuellen Unternehmensmeldungen, Projekte und Innovationen mit Einblicken in digitale Trends und Branchenthemen",
         "url": "https://www.soprasteria.de/newsroom/pressemitteilungen",
         "canonical_url": "https://www.soprasteria.de/newsroom/pressemitteilungen",
         "language": "de",
         "categories": [],
         "published_date": "",
-        "last_seen": "2026-10-13T14:07:54.014573+00:00",
-        "content_hash": "032e00ba593fd854bb0a58a3de2a1afa7ef7bd871ab334e9454841887ae0ad41",
-        "first_seen": "2026-09-21T07:12:07.412790+00:00",
-        "status": "UPDATED"
-      }
-    },
-    {
-      "type": "UPDATED",
-      "record": {
-        "market": "France",
-        "source_domain": "soprasteria.fr",
-        "source_url": "https://www.soprasteria.fr/services/conseil/nos-client-stories",
-        "title": "Nos cas client",
-        "description": "Client stories | Sopra Steria Next",
-        "url": "https://www.soprasteria.fr/services/conseil/nos-client-stories",
-        "canonical_url": "https://www.soprasteria.fr/services/conseil/nos-client-stories",
-        "language": "fr",
-        "categories": [],
-        "published_date": "",
-        "last_seen": "2026-10-13T14:07:54.014573+00:00",
-        "content_hash": "9e9c4248a95b157c9dec7fe5f4c531b1508528f7dafb44caafb266181e10f2f1",
-        "first_seen": "2026-09-21T07:12:07.412790+00:00",
-        "status": "UPDATED"
-      }
-    },
-    {
-      "type": "UPDATED",
-      "record": {
-        "market": "France",
-        "source_domain": "soprasteria.fr",
-        "source_url": "https://www.soprasteria.fr/services/conseil/nos-client-stories",
-        "title": "Actualités",
-        "description": "Découvrez les dernières actualités de Sopra Steria Next : événements, publications, études etc.",
-        "url": "https://www.soprasteria.fr/services/conseil/actualites",
-        "canonical_url": "https://www.soprasteria.fr/services/conseil/actualites",
-        "language": "fr",
-        "categories": [],
-        "published_date": "",
-        "last_seen": "2026-10-13T14:07:54.014573+00:00",
-        "content_hash": "659a527e6392c6444bc62d4e91d9b2278fe12e492e782edf5b5f3ba39ae9e9dd",
-        "first_seen": "2026-09-21T07:12:07.412790+00:00",
-        "status": "UPDATED"
-      }
-    },
-    {
-      "type": "UPDATED",
-      "record": {
-        "market": "Italy",
-        "source_domain": "soprasteria.it",
-        "source_url": "https://www.soprasteria.it/chi-siamo/storie-di-successo",
-        "title": "Newsroom",
-        "description": "Trovi qui tutti i comunicati stampa dall'Italia e dal mondo riguardanti Sopra Steria Group.",
-        "url": "https://www.soprasteria.it/newsroom",
-        "canonical_url": "https://www.soprasteria.it/newsroom",
-        "language": "it",
-        "categories": [],
-        "published_date": "",
-        "last_seen": "2026-10-13T14:07:54.014573+00:00",
-        "content_hash": "83b879f403e28925f2a2a8b6dfee7e39f491c229a0481d00dc21719721af8159",
+        "last_seen": "2026-10-14T11:48:07.787090+00:00",
+        "content_hash": "c2fc59e9a3db534d51be56061aeb3f7091839ed3bd9532057499b063a9654d4b",
         "first_seen": "2026-09-21T07:12:07.412790+00:00",
         "status": "UPDATED"
       }
@@ -109,15 +52,15 @@
         "market": "Netherlands",
         "source_domain": "soprasteria.nl",
         "source_url": "https://www.soprasteria.nl/newsroom/success-stories",
-        "title": "Insights",
-        "description": "",
+        "title": "The world is how we shape it",
+        "description": "Discover all our publications, press releases, news, blog articles,...",
         "url": "https://www.soprasteria.nl/newsroom",
         "canonical_url": "https://www.soprasteria.nl/newsroom",
         "language": "en",
         "categories": [],
         "published_date": "",
-        "last_seen": "2026-10-13T14:07:54.014573+00:00",
-        "content_hash": "4050b60f16cb0073747e6e31849072faedac9e05446b0cea3bdef12dc72d62e7",
+        "last_seen": "2026-10-14T11:48:07.787090+00:00",
+        "content_hash": "b5d1d3427a4ecae4d06714339219dffefcc7af26e1ce7eee7434a987d768ef12",
         "first_seen": "2026-09-21T07:12:07.412790+00:00",
         "status": "UPDATED"
       }
