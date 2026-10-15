@@ -1,69 +1,11 @@
 {
-  "run_at": "2026-10-14T11:48:07.787090+00:00",
+  "run_at": "2026-10-15T11:24:38.613765+00:00",
   "summary": {
     "sources": 7,
-    "discovered": 101,
+    "discovered": 98,
     "new": 0,
-    "updated": 3,
+    "updated": 0,
     "errors": 0
   },
-  "changes": [
-    {
-      "type": "UPDATED",
-      "record": {
-        "market": "Germany",
-        "source_domain": "soprasteria.de",
-        "source_url": "https://www.soprasteria.de/newsroom/success-stories",
-        "title": "Interviews \"Nachgefragt!\"",
-        "description": "Nachgefragt: Experten-Interviews | Sopra Steria – aktuelle Perspektiven zu Digitalisierung, Nachhaltigkeit und Innovation direkt von führenden Branchenexpert*innen",
-        "url": "https://www.soprasteria.de/newsroom/interviews-nachgefragt",
-        "canonical_url": "https://www.soprasteria.de/newsroom/interviews-nachgefragt",
-        "language": "de",
-        "categories": [],
-        "published_date": "",
-        "last_seen": "2026-10-14T11:48:07.787090+00:00",
-        "content_hash": "5feee04b0a268c5004852d09785a29c30c9b695906c81d1e91e57a309658c31a",
-        "first_seen": "2026-09-21T07:12:07.412790+00:00",
-        "status": "UPDATED"
-      }
-    },
-    {
-      "type": "UPDATED",
-      "record": {
-        "market": "Germany",
-        "source_domain": "soprasteria.de",
-        "source_url": "https://www.soprasteria.de/newsroom/success-stories",
-        "title": "Pressemitteilungen",
-        "description": "Pressemitteilungen & News | Sopra Steria – alle aktuellen Unternehmensmeldungen, Projekte und Innovationen mit Einblicken in digitale Trends und Branchenthemen",
-        "url": "https://www.soprasteria.de/newsroom/pressemitteilungen",
-        "canonical_url": "https://www.soprasteria.de/newsroom/pressemitteilungen",
-        "language": "de",
-        "categories": [],
-        "published_date": "",
-        "last_seen": "2026-10-14T11:48:07.787090+00:00",
-        "content_hash": "c2fc59e9a3db534d51be56061aeb3f7091839ed3bd9532057499b063a9654d4b",
-        "first_seen": "2026-09-21T07:12:07.412790+00:00",
-        "status": "UPDATED"
-      }
-    },
-    {
-      "type": "UPDATED",
-      "record": {
-        "market": "Netherlands",
-        "source_domain": "soprasteria.nl",
-        "source_url": "https://www.soprasteria.nl/newsroom/success-stories",
-        "title": "The world is how we shape it",
-        "description": "Discover all our publications, press releases, news, blog articles,...",
-        "url": "https://www.soprasteria.nl/newsroom",
-        "canonical_url": "https://www.soprasteria.nl/newsroom",
-        "language": "en",
-        "categories": [],
-        "published_date": "",
-        "last_seen": "2026-10-14T11:48:07.787090+00:00",
-        "content_hash": "b5d1d3427a4ecae4d06714339219dffefcc7af26e1ce7eee7434a987d768ef12",
-        "first_seen": "2026-09-21T07:12:07.412790+00:00",
-        "status": "UPDATED"
-      }
-    }
-  ]
+  "changes": []
 }
