@@ -1,28 +1,66 @@
 {
-  "run_at": "2026-10-16T11:19:08.562676+00:00",
+  "run_at": "2026-10-17T10:39:36.193642+00:00",
   "summary": {
     "sources": 7,
-    "discovered": 98,
-    "new": 0,
-    "updated": 1,
+    "discovered": 97,
+    "new": 1,
+    "updated": 2,
     "errors": 0
   },
   "changes": [
     {
       "type": "UPDATED",
       "record": {
-        "market": "France",
-        "source_domain": "soprasteria.fr",
-        "source_url": "https://www.soprasteria.fr/services/conseil/nos-client-stories",
-        "title": "Espace médias",
-        "description": "À l’heure de la guerre de saturation, Boris Laurent et Christophe Eugène explorent comment IA, données et systèmes intégrés redéfinissent la puissance militaire européenne.",
-        "url": "https://www.soprasteria.fr/espace-media",
-        "canonical_url": "https://www.soprasteria.fr/espace-media",
-        "language": "fr",
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "AI",
+        "description": "Sopra Steria erbjuder omfattande AI-tjänster för att hjälpa företag att utnyttja artificiell intelligens. Genom vår mognadstrappa identifieras företagets nuvarande position och framtida mål inom AI. Vi erbjuder skräddarsydda paket för att påbörja AI-resan, integrera AI i verksamheten och maximera AI-användningen för att förbättra processer, beslutsfattande och effektivitet. Oavsett var ni befinner er i er AI-resa, står Sopra Steria redo att stötta och guida er mot en AI-driven framtid.",
+        "url": "https://www.soprasteria.se/erbjudande/ai",
+        "canonical_url": "https://www.soprasteria.se/erbjudande/ai",
+        "language": "sv",
         "categories": [],
         "published_date": "",
-        "last_seen": "2026-10-16T11:19:08.562676+00:00",
-        "content_hash": "2e90ed616550973bf4ec6e4ff3e0409ba3f09586c22149aaa087af24146a60c4",
+        "last_seen": "2026-10-17T10:39:36.193642+00:00",
+        "content_hash": "97ea9cabc014ef442b0dc4979b82717f5eb6f3cf4ac04454a0e213f2c83ce9dc",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "UPDATED"
+      }
+    },
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Offentlig sektor",
+        "description": "Upptäck hur Sopra Steria hjälper myndigheter med digital transformation, effektivisering och innovativa IT-lösningar för framtidens utmaningar.",
+        "url": "https://www.soprasteria.se/branscher/offentlig-sektor",
+        "canonical_url": "https://www.soprasteria.se/branscher/offentlig-sektor",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-10-17T10:39:36.193642+00:00",
+        "content_hash": "c794976144e948968b0739da813c11701c9aeb8a82e247baa423205b6a151b5e",
+        "first_seen": "2026-10-17T10:39:36.193642+00:00",
+        "status": "NEW"
+      }
+    },
+    {
+      "type": "UPDATED",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "Vårt jämställdhets- och mångfaldsinitiativ",
+        "description": "På Sopra Steria driver vi ett mångfaldsinitiativ som ämnar att skapa en ökad medvetenhet och förståelse kring inkludering och mångfald.",
+        "url": "https://www.soprasteria.se/om-oss/hallbarhet/we-at-sopra-steria",
+        "canonical_url": "https://www.soprasteria.se/om-oss/hallbarhet/we-at-sopra-steria",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-10-17T10:39:36.193642+00:00",
+        "content_hash": "6eb4203b5b82fffef4d0b1ef36cd1d2509f795c7b6ebc54b9e3e54b851ebb6dc",
         "first_seen": "2026-09-21T07:12:07.412790+00:00",
         "status": "UPDATED"
       }
