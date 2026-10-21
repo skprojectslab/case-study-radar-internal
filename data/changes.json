@@ -1,11 +1,31 @@
 {
-  "run_at": "2026-10-20T11:32:08.720016+00:00",
+  "run_at": "2026-10-21T11:44:42.241740+00:00",
   "summary": {
     "sources": 7,
     "discovered": 97,
     "new": 0,
-    "updated": 0,
+    "updated": 1,
     "errors": 0
   },
-  "changes": []
+  "changes": [
+    {
+      "type": "UPDATED",
+      "record": {
+        "market": "France",
+        "source_domain": "soprasteria.fr",
+        "source_url": "https://www.soprasteria.fr/services/conseil/nos-client-stories",
+        "title": "Espace médias",
+        "description": "Découvrez comment la conduite du changement continue et les outils comme WalkMe maximisent le ROI de vos projets SAP.",
+        "url": "https://www.soprasteria.fr/espace-media",
+        "canonical_url": "https://www.soprasteria.fr/espace-media",
+        "language": "fr",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-10-21T11:44:42.241740+00:00",
+        "content_hash": "567e30209c49c1a8c0bd6ed67637801f18e76c495e1234d0d1f32a55ba0a1c75",
+        "first_seen": "2026-09-21T07:12:07.412790+00:00",
+        "status": "UPDATED"
+      }
+    }
+  ]
 }
