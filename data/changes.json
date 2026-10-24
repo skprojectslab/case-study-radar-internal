@@ -1,31 +1,11 @@
 {
-  "run_at": "2026-10-23T11:34:33.445587+00:00",
+  "run_at": "2026-10-24T10:54:46.749400+00:00",
   "summary": {
     "sources": 7,
     "discovered": 97,
     "new": 0,
-    "updated": 1,
+    "updated": 0,
     "errors": 0
   },
-  "changes": [
-    {
-      "type": "UPDATED",
-      "record": {
-        "market": "France",
-        "source_domain": "soprasteria.fr",
-        "source_url": "https://www.soprasteria.fr/services/conseil/nos-client-stories",
-        "title": "Espace médias",
-        "description": "À l’heure de la guerre de saturation, Boris Laurent et Christophe Eugène explorent comment IA, données et systèmes intégrés redéfinissent la puissance militaire européenne.",
-        "url": "https://www.soprasteria.fr/espace-media",
-        "canonical_url": "https://www.soprasteria.fr/espace-media",
-        "language": "fr",
-        "categories": [],
-        "published_date": "",
-        "last_seen": "2026-10-23T11:34:33.445587+00:00",
-        "content_hash": "2e90ed616550973bf4ec6e4ff3e0409ba3f09586c22149aaa087af24146a60c4",
-        "first_seen": "2026-09-21T07:12:07.412790+00:00",
-        "status": "UPDATED"
-      }
-    }
-  ]
+  "changes": []
 }
