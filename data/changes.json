@@ -1,31 +1,11 @@
 {
-  "run_at": "2026-11-06T14:12:53.388900+00:00",
+  "run_at": "2026-11-07T12:55:58.353659+00:00",
   "summary": {
     "sources": 7,
     "discovered": 97,
     "new": 0,
-    "updated": 1,
+    "updated": 0,
     "errors": 0
   },
-  "changes": [
-    {
-      "type": "UPDATED",
-      "record": {
-        "market": "France",
-        "source_domain": "soprasteria.fr",
-        "source_url": "https://www.soprasteria.fr/services/conseil/nos-client-stories",
-        "title": "Espace médias",
-        "description": "Le Cercle Pégase enquête sur des techniques d’optimisation de visibilité sur les chatbots d’IA qui deviennent une arme d’influence ...",
-        "url": "https://www.soprasteria.fr/espace-media",
-        "canonical_url": "https://www.soprasteria.fr/espace-media",
-        "language": "fr",
-        "categories": [],
-        "published_date": "",
-        "last_seen": "2026-11-06T14:12:53.388900+00:00",
-        "content_hash": "fd2aeff9edc0aef0be497834cbca1a6e4a31a70ec45335cbd4c02ff824e679db",
-        "first_seen": "2026-09-21T07:12:07.412790+00:00",
-        "status": "UPDATED"
-      }
-    }
-  ]
+  "changes": []
 }
