@@ -1,11 +1,31 @@
 {
-  "run_at": "2026-11-17T15:56:29.036175+00:00",
+  "run_at": "2026-11-18T15:35:40.699149+00:00",
   "summary": {
     "sources": 7,
-    "discovered": 97,
-    "new": 0,
+    "discovered": 98,
+    "new": 1,
     "updated": 0,
     "errors": 0
   },
-  "changes": []
+  "changes": [
+    {
+      "type": "NEW",
+      "record": {
+        "market": "Sweden",
+        "source_domain": "soprasteria.se",
+        "source_url": "https://www.soprasteria.se/kundreferenser/",
+        "title": "För leverantörer",
+        "description": "",
+        "url": "https://www.soprasteria.se/for-leverantorer",
+        "canonical_url": "https://www.soprasteria.se/for-leverantorer",
+        "language": "sv",
+        "categories": [],
+        "published_date": "",
+        "last_seen": "2026-11-18T15:35:40.699149+00:00",
+        "content_hash": "8ac81f386c0216efc34dbeb5a3dfa89efd84700375d9c918735ea97f16ce980d",
+        "first_seen": "2026-11-18T15:35:40.699149+00:00",
+        "status": "NEW"
+      }
+    }
+  ]
 }
